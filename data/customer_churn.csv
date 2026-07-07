@@ -1,0 +1,1121 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,City,SignupDate,Churn
+CUST-1621,Female,0,yes,N,57.0,No,No,Fiber optic,month-to-month,no,Mailed check,108.7,5953.2,bengaluru,22-05-2021,No
+CUST-2087,FEMALE,0,No,Yes,71.0,Yes,No,No,,YES, Electronic check,62.26,4316.57,Delhi,07-12-2023,No
+CUST-1172,Male,1,No,No,23.0,No,No,DSL,Two year,No,Mailed check,88.92,2026.92,Bengaluru,09-12-2018,1
+CUST-1473,Male,1,No,N,24.0,Yes,Yes,Fiber optic,Month-to-month,No,,17.31,407.02,Chennai,31-07-2020,NO
+CUST-1189,Male,0,Yes,No,19.0,Yes,No phone service,DSL,Month-to-month,No,Bank transfer,87.08,1647.09,Mumbai,12-01-2019,NO
+CUST-1455,Male,0,,No,24.0,yes,Yes,,Two year,Yes,,48.89,1184.85,Bengaluru,25-06-2020,No
+CUST-1125,Female,1,,No,23.0,No,No phone service,Fiber optic,One year,No,Electronic check,103.75,2319.11,Chennai,07-09-2018,No
+CUST-2034,Female,0,Yes,N,8.0,no,No,Fiber optic,Two year,Yes,Mailed check,29.37,236.03,MUMBAI,23-08-2023,Yes
+CUST-1656, Male,0,yes,,4.0,No,Yes,DSL,Month-to-month,No,Credit card,66.58,296.57,Hyderabad,31-07-2021,No
+CUST-1999,Female,0,,Y,57.0,Yes,No phone service,,Month-to-month,Yes,Bank transfer,59.8,3557.68,,14-06-2023,Yes
+CUST-1140,Female,1,Yes,No,6.0,Yes,No,,Two year,No,Electronic check,81.23,458.26,Delhi,06-10-2018,Yes
+CUST-1525,Female,0,yes,No,33.0,No,Yes,fiber optic,,No, Electronic check,105.64,3568.59,Hyderabad,12-11-2020,Yes
+CUST-1164,Female,0,yes,N,63.0,No,No phone service,DSL,,no,Credit card,75.37,4930.72,Bengaluru,23-11-2018,yes
+CUST-1641,FEMALE,0,No,Yes,32.0,No,Yes,DSL,,Yes,Electronic check,69.36,2192.73,Delhi,01-07-2021,No
+CUST-2011,male,0,yes,N,41.0,yes,No,DSL,,Yes,,90.24,3377.85,bengaluru,08-07-2023,No
+CUST-1747,Female,0,NO,No,32.0,yes,,DSL,month-to-month,YES,Credit card,96.48,3132.12,Delhi,28-01-2022,No
+CUST-1551,Male,0,yes,No,10.0,No,No phone service,Fiber optic,Two year,Yes,Mailed check,56.29,596.37,Mumbai,02-01-2021,No
+CUST-1377,Female,nan,NO,No,46.0,no,Yes,Fiber optic,,Yes,Electronic check,42.68,2094.84,,22-01-2020,Yes
+CUST-1862,FEMALE,0,Yes,N,7.0,Yes,No phone service,Fiber optic,Month-to-month,Yes,Mailed check,15.0,105.45,Delhi,14-09-2022,No
+CUST-1453,Male,1,yes,N,62.0,Yes,No phone service,Fiber optic,Two year,no, Electronic check,94.54,6236.07,Hyderabad,21-06-2020,No
+CUST-1971,Male,1,yes,No,61.0,Yes,Yes,DSL,,No,Electronic check,116.75,6742.23,Bengaluru,19-04-2023,No
+CUST-1562, Male,0,Yes,Y,68.0,No,,Fiber optic,Two year,No,Mailed check,59.45,3969.69,Delhi,24-01-2021,Yes
+CUST-1053,male,0,No,No,13.0,No,No,dsl,Two year,Yes,,38.84,501.25,Hyderabad,16-04-2018,No
+CUST-1108,Male,0,No,No,24.0,no,Yes,No,Month-to-month,Yes,Credit card,40.33,1050.85,Bengaluru,04-08-2018,Yes
+CUST-1522,Male,1,No,No,59.0,No,Yes,Fiber optic,,Yes,Mailed check,69.38,4331.21,Bengaluru,06-11-2020,No
+CUST-1776,male,0,yes,No,25.0,No,Yes,No,One year,Yes,Bank transfer,75.88,1750.13,Chennai,27-03-2022,No
+CUST-1046,Female,0,Yes,N,17.0,Yes,No phone service,DSL,Month-to-month,No,Mailed check,23.66,392.85,Bengaluru,02-04-2018,No
+CUST-1950,Female,nan,Yes,No,21.0,Yes,Yes,Fiber optic,Month-to-month,No,Mailed check,93.4,2082.34,,09-03-2023,Yes
+CUST-1498,Female,1,No,No,61.0,yes,No,DSL,Two year,Yes,Credit card,37.37,2164.25,MUMBAI,19-09-2020,0
+CUST-1488,male,0,Yes,No,25.0,No,No,Fiber optic,Two year,Yes,Bank transfer,70.89,1834.21,Hyderabad,30-08-2020,No
+CUST-1431,FEMALE,0,No,,20.0,no,No,No,Month-to-month,Yes,Bank transfer,33.81,718.15,,08-05-2020,NO
+CUST-1796,Male,0,yes,No,49.0,No,No,,Month-to-month,Yes,Bank transfer,72.95,3305.41,Mumbai,06-05-2022,No
+CUST-2095,Female,1,,No,57.0,Yes,No,No,One year,Yes,Credit card,63.27,3887.42,Delhi,23-12-2023,No
+CUST-1224,Female,0,,No,62.0,No,Yes,fiber optic,Month-to-month,no,Credit card,101.94,6098.76,Mumbai,23-03-2019,No
+CUST-1732,Male,0,No,No,39.0,Yes,Yes,,Two year,No,Bank transfer,29.27,1204.36,,29-12-2021,Yes
+CUST-1544,Male,0,No,,72.0,Yes,No,No,Month-to-month,Yes,Mailed check,69.48,5106.25,Bengaluru,20-12-2020,No
+CUST-1262,Female,0,Yes,,46.0,Yes,No,Fiber optic,Two year,Yes,Mailed check,39.41,1879.57,Mumbai,07-06-2019,No
+CUST-1141,Female,0,Yes,Yes,66.0,Yes,No,Fiber optic,Month-to-month,Yes,Electronic check,39.26,2552.86,bengaluru,08-10-2018,NO
+CUST-1123,Female,0,Yes,No,30.0,yes,No phone service,Fiber optic,Two year,Yes,Credit card,15.0,424.71,MUMBAI,03-09-2018,0
+CUST-1097,Male,0,Yes,Yes,40.0,Yes,No,DSL,Month-to-month,No,Mailed check,93.0,4018.38,,13-07-2018,Yes
+CUST-1714,FEMALE,1,No,No,46.0,yes,No,Fiber optic,month-to-month,no,Credit card,78.65,3640.76,MUMBAI,23-11-2021,Yes
+CUST-1054,FEMALE,0,,No,41.0,Yes,Yes,No,Month-to-month,No,,28.21,1205.31,Bengaluru,18-04-2018,No
+CUST-1009,Female,0,Yes,Yes,34.0,Yes,No,,One year,No, Electronic check,50.7,1618.1,Hyderabad,18-01-2018,NO
+CUST-2090,Male,0,No,Yes,40.0,No,Yes,Fiber optic,,No,Mailed check,45.63,1711.06,Delhi,13-12-2023,yes
+CUST-1677,Female,1,No,Yes,9.0,Yes,No,Fiber optic,One year,Yes,,72.91,586.14,Delhi,11-09-2021,0
+CUST-1649,Male,1,No,No,5.0,No,,Fiber optic,,no,,82.75,440.25,Bengaluru,17-07-2021,No
+CUST-1128,Male,nan,No,,48.0,Yes,Yes,Fiber optic,Month-to-month,Yes,Bank transfer,84.78,4177.23,Mumbai,13-09-2018,No
+CUST-1716,male,0,Yes,No,29.0,Yes,No,,One year,no,Credit card,15.0,407.5,bengaluru,27-11-2021,yes
+CUST-2055,male,1,NO,Y,35.0,Yes,No phone service,,Month-to-month,Yes,Electronic check,47.38,1609.0,,04-10-2023,No
+CUST-1734,Male,0,yes,Yes,6.0,No,No,No,Month-to-month,Yes,Mailed check,138.11,832.17,Chennai,02-01-2022,No
+CUST-1409,,0,No,Y,51.0,Yes,Yes,dsl,One year,No,,62.47,3296.09,Mumbai,26-03-2020,0
+CUST-1899,Female,0,Yes,Yes,56.0,Yes,No,fiber optic,,Yes,Electronic check,63.65,3749.04,,27-11-2022,No
+CUST-1666,FEMALE,nan,No,No,46.0,No,No phone service,No,Month-to-month,No,Electronic check,53.81,2540.45,bengaluru,20-08-2021,Yes
+CUST-1034,Female,nan,yes,No,68.0,no,Yes,DSL,Month-to-month,Yes, Electronic check,38.37,2603.77,Mumbai,09-03-2018,No
+CUST-1463,Female,nan,Yes,Yes,32.0,Yes,Yes,No,One year,Yes,Electronic check,18.91,583.53,MUMBAI,11-07-2020,Yes
+CUST-1618,Male,0,No,Y,5.0,No,No,DSL,,Yes, Electronic check,52.04,249.87,bengaluru,16-05-2021,NO
+CUST-1619,Male,1,,No,25.0,No,No,No,Month-to-month,Yes,Electronic check,89.45,2160.5,Bengaluru,18-05-2021,No
+CUST-1565,male,1,,No,55.0,Yes,,DSL,Month-to-month,no,Mailed check,125.32,6725.24,Mumbai,30-01-2021,No
+CUST-1222,male,0,NO,Yes,56.0,Yes,No,No,,no,Bank transfer,116.1,6617.04,Bengaluru,19-03-2019,Yes
+CUST-1595,Male,0,No,No,34.0,Yes,No phone service,Fiber optic,,Yes,Credit card,55.26,1885.09,,31-03-2021,No
+CUST-1216,Male,0,Yes,No,28.0,Yes,No,Fiber optic,Month-to-month,No,Electronic check,40.02,1105.83,Delhi,07-03-2019,No
+CUST-1179,FEMALE,0,yes,No,38.0,No,No phone service,DSL,One year,No,Bank transfer,61.73,2439.44,Delhi,23-12-2018,NO
+CUST-1507,FEMALE,0,Yes,No,9.0,Yes,No phone service,DSL,Two year,YES,Electronic check,30.98,270.03,Delhi,07-10-2020,No
+CUST-2077,Female,1,No,Yes,46.0,Yes,No phone service,,One year,No,Electronic check,39.82,1925.41,Delhi,17-11-2023,1
+CUST-1263,Male,0,No,Yes,,yes,No,Fiber optic,Two year,No,Electronic check,77.28,0.0,MUMBAI,09-06-2019,No
+CUST-1587,Female,0,No,N,62.0,yes,No,,Two year,Yes,Mailed check,81.09,5103.12,Delhi,15-03-2021,1
+CUST-1374,Male,0,No,N,31.0,No,Yes,,Month-to-month,YES,Mailed check,96.5,2760.29,Hyderabad,16-01-2020,No
+CUST-1284,male,nan,NO,,30.0,no,No phone service,DSL,Two year,Yes,Electronic check,33.48,1134.5,Chennai,20-07-2019,No
+CUST-1113,male,1,Yes,Yes,10.0,yes,,No,Two year,Yes, Electronic check,74.38,750.54,MUMBAI,14-08-2018,1
+CUST-1611,male,1,NO,No,21.0,Yes,Yes,dsl,Month-to-month,Yes,Credit card,37.81,889.13,Mumbai,02-05-2021,yes
+CUST-1389, Male,0,No,No,15.0,No,Yes,,Two year,Yes,Bank transfer,46.44,699.37,MUMBAI,15-02-2020,Yes
+CUST-1186,Female,1,,Y,54.0,yes,No,Fiber optic,One year,No,Mailed check,75.58,4101.6,Bengaluru,06-01-2019,No
+CUST-1770,Male,0,No,No,69.0,Yes,Yes,Fiber optic,Two year,No,Electronic check,29.51,1965.63,Hyderabad,15-03-2022,Yes
+CUST-1360, Male,0,yes,Yes,49.0,No,No,Fiber optic,Two year,No,Credit card,41.27,1859.72,,19-12-2019,No
+CUST-1663,Male,0,Yes,No,66.0,Yes,No,No,Month-to-month,No,Credit card,107.56,7387.67,bengaluru,14-08-2021,NO
+CUST-1508,Female,1,Yes,,48.0,yes,,DSL,One year,No, Electronic check,100.08,4796.83,bengaluru,09-10-2020,1
+CUST-1833,male,1,Yes,No,17.0,Yes,No,No,month-to-month,No,Electronic check,44.34,720.2,MUMBAI,18-07-2022,NO
+CUST-1259,male,0,No,No,40.0,No,No,No,One year,No,Bank transfer,53.5,2142.97,Chennai,01-06-2019,No
+CUST-1662,Male,0,No,Y,29.0,Yes,No,DSL,One year,no,Electronic check,90.71,2525.96,Delhi,12-08-2021,1
+CUST-1403,Male,1,NO,Y,67.0,no,,Fiber optic,month-to-month,no,Electronic check,53.66,3546.58,Chennai,14-03-2020,NO
+CUST-1713, Male,0,yes,Yes,30.0,Yes,Yes,Fiber optic,Two year,Yes,Electronic check,86.08,2644.0,Bengaluru,21-11-2021,Yes
+CUST-2075,Female,0,NO,Yes,52.0,Yes,No,DSL,One year,No,Bank transfer,57.34,3053.49,Bengaluru,13-11-2023,Yes
+CUST-1418,Male,0,NO,,7.0,No,No phone service,dsl,One year,Yes,Electronic check,85.88,606.43,Hyderabad,12-04-2020,yes
+CUST-1205,Male,nan,Yes,No,45.0,No,,DSL,,Yes,Bank transfer,42.76,1853.96,bengaluru,13-02-2019,yes
+CUST-1326,FEMALE,0,,N,63.0,Yes,No,DSL,Two year,YES,Mailed check,35.5,2171.54,MUMBAI,12-10-2019,Yes
+CUST-1023, Male,0,Yes,N,3.0,Yes,No,No,,No,Credit card,64.19,194.09,Mumbai,15-02-2018,NO
+CUST-1325,male,1,Yes,No,20.0,Yes,No phone service,Fiber optic,Two year,No,Bank transfer,15.0,272.72,Delhi,10-10-2019,NO
+CUST-1482,male,1,Yes,,9.0,No,No,No,One year,Yes,Bank transfer,64.45,597.74,Chennai,18-08-2020,Yes
+CUST-1099,,0,yes,No,1.0,Yes,No phone service,,Month-to-month,Yes,Credit card,41.55,43.2,Bengaluru,17-07-2018,No
+CUST-1879,male,0,Yes,N,11.0,Yes,No,DSL,Month-to-month,No,,52.91,603.79,Bengaluru,18-10-2022,No
+CUST-1851,Male,0,Yes,No,29.0,No,No,Fiber optic,Two year,Yes,Mailed check,62.45,1784.93,MUMBAI,23-08-2022,Yes
+CUST-1357,FEMALE,1,Yes,No,35.0,No,No phone service,,Month-to-month,No,Credit card,63.61,2234.7,Chennai,13-12-2019,No
+CUST-1871,Male,nan,,Y,60.0,No,No,Fiber optic,Month-to-month,No,,29.28,1742.37,MUMBAI,02-10-2022,No
+CUST-1697,male,0,Yes,No,63.0,No,Yes,No,month-to-month,no, Electronic check,61.48,3953.29,Chennai,20-10-2021,1
+CUST-1882, Male,1,yes,Y,32.0,Yes,No,DSL,Month-to-month,YES,Bank transfer,64.99,2159.89,Mumbai,24-10-2022,No
+CUST-1799,FEMALE,0,Yes,,55.0,No,,DSL,Month-to-month,Yes,Mailed check,55.35, ,Chennai,12-05-2022,No
+CUST-1799,FEMALE,0,Yes,,55.0,No,,DSL,Month-to-month,Yes,Mailed check,55.35, ,Chennai,12-05-2022,No
+CUST-1642,Male,0,No,Yes,13.0,Yes,No phone service,fiber optic,Month-to-month,YES,Electronic check,48.3,686.63,Mumbai,03-07-2021,yes
+CUST-1658,male,nan,yes,Yes,56.0,No,Yes,DSL,Two year,Yes,Electronic check,60.96,3457.63,Mumbai,04-08-2021,Yes
+CUST-1317,male,0,Yes,Yes,1.0,Yes,No,Fiber optic,,Yes,Electronic check,88.58,94.27,Bengaluru,24-09-2019,NO
+CUST-1728,Female,nan,No,No,11.0,Yes,No,,,Yes,Electronic check,179.88,1905.98,Delhi,21-12-2021,yes
+CUST-1316,Female,0,Yes,No,28.0,No,Yes,DSL,Month-to-month,no,Bank transfer,97.56,2517.76,Hyderabad,22-09-2019,No
+CUST-1704,Female,0,No,No,2.0,No,No,Fiber optic,month-to-month,No,Mailed check,85.82,162.55,Mumbai,03-11-2021,No
+CUST-1070,Male,1,yes,N,0.0,No,No,Fiber optic,Two year,Yes,Mailed check,92.32,0.0,Hyderabad,20-05-2018,yes
+CUST-1278, Male,0,No,Y,7.0,Yes,No phone service,,One year,Yes,Bank transfer,93.30000000000001,650.26,Bengaluru,08-07-2019,No
+CUST-1452,FEMALE,0,NO,No,20.0,no,No,No,Two year,YES,Mailed check,58.83,1126.44,Delhi,19-06-2020,No
+CUST-1270,Male,0,No,N,8.0,No,No,No,Two year,No,Credit card,103.9,807.08,Bengaluru,23-06-2019,yes
+CUST-1531,FEMALE,1,Yes,No,29.0,Yes,No phone service,dsl,Two year,No,Mailed check,44.36, ,bengaluru,24-11-2020,Yes
+CUST-1040,Female,1,Yes,No,20.0,Yes,Yes,DSL,Two year,Yes,,30.91,635.23,Delhi,21-03-2018,Yes
+CUST-1109, Male,1,NO,Yes,38.0,No,No,,One year,Yes,Mailed check,84.53,3227.07,bengaluru,06-08-2018,No
+CUST-1318,Female,1,No,No,26.0,Yes,Yes,Fiber optic,Two year,Yes,Bank transfer,61.45,1709.69,,26-09-2019,No
+CUST-1931,Female,0,,Yes,8.0,No,Yes,Fiber optic,,No,Bank transfer,43.56,331.73,Hyderabad,30-01-2023,No
+CUST-1955, Male,0,No,Yes,49.0,No,Yes,DSL,One year,no,Electronic check,100.64,5579.65,Hyderabad,19-03-2023,No
+CUST-1285,Female,0,No,N,72.0,yes,Yes,fiber optic,,no,Mailed check,46.22,3214.66,Bengaluru,22-07-2019,NO
+CUST-1171,Female,1,No,No,,No,Yes,DSL,month-to-month,No,Credit card,79.07,0.0,Chennai,07-12-2018,No
+CUST-1412,Male,0,No,,68.0,No,No,Fiber optic,Month-to-month,Yes,Electronic check,48.36,3200.1,,01-04-2020,No
+CUST-1758,Male,0,Yes,No,56.0,No,No,No,Month-to-month,No,Credit card,104.39,5638.46,Hyderabad,19-02-2022,0
+CUST-1569,Female,1,,No,72.0,yes,No,,Month-to-month,No,Credit card,41.4,3151.33,,07-02-2021,NO
+CUST-1889,male,0,,No,28.0,No,Yes,Fiber optic,,Yes,Electronic check,60.2,1679.13,Delhi,07-11-2022,NO
+CUST-2058,Female,1,No,No,26.0,No,No phone service,,Two year,No,Mailed check,91.54,2418.17,,10-10-2023,No
+CUST-1220,Female,0,Yes,No,54.0,Yes,No,,One year,No,,41.75,2182.83,,15-03-2019,No
+CUST-1657,Female,nan,No,,44.0,Yes,Yes,No,Two year,No,Electronic check,42.13, ,Delhi,02-08-2021,No
+CUST-2093,Male,0,No,Y,43.0,yes,No,Fiber optic,Month-to-month,YES,Bank transfer,45.29,1741.67,MUMBAI,19-12-2023,No
+CUST-1146,Female,0,NO,Y,5.0,Yes,No phone service,Fiber optic,month-to-month,no,,15.07,76.26,Mumbai,18-10-2018,NO
+CUST-1430, Male,0,Yes,,40.0,Yes,No phone service,Fiber optic,Month-to-month,Yes,Mailed check,70.4,2872.83,Mumbai,06-05-2020,No
+CUST-1556,Female,0,NO,N,51.0,No,Yes,fiber optic,Month-to-month,YES,Credit card,89.47,4608.64,Bengaluru,12-01-2021,1
+CUST-2096,Male,0,NO,Yes,58.0,No,No,Fiber optic,One year,YES,Mailed check,33.34,1917.84,Chennai,25-12-2023,No
+CUST-1937,Male,0,Yes,N,32.0,Yes,No,DSL,Two year,No,Electronic check,63.0,1844.19,Mumbai,11-02-2023,No
+CUST-1038,Male,0,No,No,49.0,No,Yes,No,month-to-month,No, Electronic check,84.83,4218.17,Mumbai,17-03-2018,No
+CUST-1872,,0,NO,,64.0,No,No,No,Month-to-month,Yes,Electronic check,101.55,6300.46,Bengaluru,04-10-2022,yes
+CUST-1855,Female,nan,No,Yes,30.0,Yes,No,Fiber optic,,Yes,Electronic check,38.38,1196.68,MUMBAI,31-08-2022,No
+CUST-2091,male,0,yes,N,58.0,Yes,,fiber optic,Month-to-month,No,Electronic check,59.89,3084.01,,15-12-2023,No
+CUST-1297,FEMALE,nan,Yes,N,52.0,Yes,No phone service,fiber optic,Month-to-month,Yes,Electronic check,67.95,3334.01,,15-08-2019,No
+CUST-1558,male,1,yes,Y,57.0,No,No,fiber optic,Two year,Yes,Bank transfer,21.9,1344.83,Delhi,16-01-2021,No
+CUST-1013,FEMALE,nan,No,No,67.0,No,Yes,No,Month-to-month,No,Credit card,20.02,1303.49,Chennai,26-01-2018,No
+CUST-1685,Female,1,Yes,Yes,,yes,No,DSL,Month-to-month,no,Credit card,26.14,0.0,Bengaluru,27-09-2021,Yes
+CUST-1769,male,1,Yes,Yes,70.0,No,No,No,,Yes,Electronic check,54.13,3780.0,bengaluru,13-03-2022,NO
+CUST-1513,Female,1,Yes,Yes,64.0,Yes,No,No,One year,no, Electronic check,15.0,988.41,Hyderabad,19-10-2020,No
+CUST-1603,FEMALE,0,No,No,32.0,No,No,DSL,Month-to-month,Yes,Bank transfer,39.79,1346.34,Chennai,16-04-2021,Yes
+CUST-1487,Male,0,yes,Yes,2.0,Yes,No,Fiber optic,Two year,Yes,Mailed check,65.26,128.91,bengaluru,28-08-2020,yes
+CUST-1474,Male,0,No,N,4.0,No,No,Fiber optic,One year,Yes,Electronic check,56.21,222.71,,02-08-2020,No
+CUST-1493,Female,1,,Yes,67.0,no,,,Month-to-month,Yes,Bank transfer,54.15,3839.77,Mumbai,09-09-2020,0
+CUST-1472,Male,0,No,Y,62.0,Yes,No phone service,DSL,Month-to-month,No,Bank transfer,48.61,3076.09,Mumbai,29-07-2020,No
+CUST-1927, Male,1,Yes,Yes,56.0,Yes,No phone service,No,Month-to-month,no,Bank transfer,99.49,5366.43,bengaluru,22-01-2023,yes
+CUST-1970,Male,1,,,9.0,No,No phone service,dsl,One year,No,Electronic check,54.91,495.1,Mumbai,17-04-2023,NO
+CUST-1060,male,0,yes,No,70.0,Yes,No phone service,dsl,Two year,No,Bank transfer,43.68,2873.82,Hyderabad,30-04-2018,No
+CUST-1110,Female,0,,Y,17.0,No,No phone service,No,One year,Yes,Electronic check,50.61,906.72,Chennai,08-08-2018,Yes
+CUST-1004,Male,0,No,Y,37.0,Yes,Yes,Fiber optic,Two year,No,Electronic check,71.07,2786.99,Hyderabad,08-01-2018,Yes
+CUST-1915,,0,yes,Yes,46.0,Yes,,DSL,,No,Bank transfer,39.01,1732.27,Hyderabad,29-12-2022,Yes
+CUST-1500,FEMALE,nan,yes,Yes,14.0,yes,Yes,Fiber optic,Two year,No,Electronic check,32.55,442.43,Hyderabad,23-09-2020,No
+CUST-1943,Female,nan,Yes,No,17.0,Yes,No phone service,Fiber optic,Month-to-month,YES, Electronic check,65.68,1121.95,Bengaluru,23-02-2023,Yes
+CUST-2073, Male,0,yes,Yes,26.0,yes,Yes,No,Month-to-month,No,Bank transfer,85.01,2168.97,Mumbai,09-11-2023,Yes
+CUST-1328,male,0,NO,No,7.0,Yes,No,No,Month-to-month,Yes,Electronic check,65.75,455.44,MUMBAI,16-10-2019,yes
+CUST-1828, Male,0,yes,N,48.0,No,No phone service,DSL,One year,No,Electronic check,63.39,2939.17,,08-07-2022,yes
+CUST-1094,Female,1,Yes,Y,36.0,Yes,Yes,No,One year,no,Credit card,49.34,1760.15,Hyderabad,07-07-2018,yes
+CUST-1956,FEMALE,nan,Yes,Yes,23.0,Yes,Yes,Fiber optic,Month-to-month,Yes,Electronic check,40.35,937.16,Bengaluru,21-03-2023,Yes
+CUST-1694, Male,nan,,Yes,42.0,yes,No,DSL,One year,No,Electronic check,59.08,2375.45,bengaluru,14-10-2021,Yes
+CUST-1471,Female,0,No,,3.0,No,Yes,fiber optic,Month-to-month,No,Bank transfer,40.77,121.72,Delhi,27-07-2020,Yes
+CUST-2063,male,1,No,,45.0,No,No,DSL,Month-to-month,Yes,Bank transfer,46.85,2237.29,,20-10-2023,NO
+CUST-1372,Female,0,NO,No,5.0,Yes,No,dsl,One year,Yes,Credit card,105.56,516.56,Chennai,12-01-2020,1
+CUST-1781, Male,0,Yes,No,35.0,No,Yes,dsl,One year,YES,Credit card,43.27,1592.64,Bengaluru,06-04-2022,1
+CUST-1867,FEMALE,1,Yes,No,54.0,Yes,No,No,,Yes,Electronic check,82.26,4167.89,Mumbai,24-09-2022,Yes
+CUST-1058,Male,1,Yes,Y,20.0,Yes,No,Fiber optic,month-to-month,No,Electronic check,47.55,988.09,MUMBAI,26-04-2018,No
+CUST-1319,,nan,Yes,,51.0,No,No phone service,No,One year,Yes,Bank transfer,15.0,730.34,Hyderabad,28-09-2019,No
+CUST-1582,Male,0,yes,Y,53.0,Yes,Yes,,One year,Yes,Mailed check,95.51,5233.51,Chennai,05-03-2021,No
+CUST-1024,FEMALE,1,NO,No,52.0,Yes,Yes,Fiber optic,month-to-month,Yes,Bank transfer,26.58,1397.77,Delhi,17-02-2018,No
+CUST-1294, Male,1,NO,Yes,15.0,no,No phone service,Fiber optic,One year,No,Mailed check,116.97,1842.04,Bengaluru,09-08-2019,yes
+CUST-1170,Female,nan,No,No,44.0,Yes,No,No,,Yes,Credit card,92.93,4055.53,Chennai,05-12-2018,No
+CUST-1832,Female,0,Yes,No,16.0,Yes,Yes,Fiber optic,Two year,Yes,Credit card,49.41,820.17,Bengaluru,16-07-2022,Yes
+CUST-1025,Male,0,Yes,N,54.0,No,No,fiber optic,Month-to-month,Yes,Credit card,67.8,3428.4,Hyderabad,19-02-2018,Yes
+CUST-1712,FEMALE,0,No,,34.0,yes,No,,,Yes,Electronic check,90.24,2846.64,Hyderabad,19-11-2021,No
+CUST-2013,,0,No,N,64.0,yes,Yes,DSL,Month-to-month,YES,Mailed check,73.6,4760.01,Hyderabad,12-07-2023,No
+CUST-1986,Female,1,yes,,38.0,No,No,No,,Yes,Electronic check,68.74,2738.17,Chennai,19-05-2023,No
+CUST-1878,male,0,yes,Y,60.0,No,Yes,,One year,Yes,Bank transfer,80.41,5332.46,Delhi,16-10-2022,yes
+CUST-1812,,nan,NO,N,5.0,No,No,DSL,One year,No,Credit card,58.9,298.83,Bengaluru,07-06-2022,No
+CUST-1130,Male,0,No,No,63.0,No,No,dsl,,YES,Mailed check,15.0,983.77,Chennai,17-09-2018,No
+CUST-1153,Female,0,No,Yes,39.0,yes,No,,Month-to-month,Yes,Mailed check,112.4,4324.0,,01-11-2018,No
+CUST-1958,Female,0,,,64.0,Yes,,No,Month-to-month,Yes,Mailed check,48.53,3165.13,Bengaluru,25-03-2023,No
+CUST-1609,Female,0,Yes,N,9.0,No,Yes,No,Month-to-month,No,Credit card,57.18,538.69,MUMBAI,28-04-2021,Yes
+CUST-1813,male,0,yes,No,-1.0,Yes,,,,YES,Bank transfer,52.81,-48.83,,09-06-2022,yes
+CUST-1489,male,0,No,Y,19.0,Yes,No,Fiber optic,Month-to-month,Yes,Electronic check,22.3,411.33,Bengaluru,01-09-2020,Yes
+CUST-1098,Male,0,Yes,Y,53.0,no,Yes,,Month-to-month,No,Mailed check,15.0,750.78,Chennai,15-07-2018,NO
+CUST-1063,FEMALE,0,Yes,No,65.0,no,No phone service,No,Month-to-month,Yes,Bank transfer,79.1,4817.83,Delhi,06-05-2018,No
+CUST-1075,Female,0,Yes,No,17.0,Yes,No,dsl,,Yes,Bank transfer,40.49,687.49,Hyderabad,30-05-2018,NO
+CUST-1684,male,0,No,No,33.0,No,No,DSL,month-to-month,No,Electronic check,30.26,907.81,Chennai,25-09-2021,Yes
+CUST-1885,Female,nan,No,N,20.0,Yes,No,Fiber optic,Two year,YES,Mailed check,15.0,312.24,,30-10-2022,NO
+CUST-1845, Male,nan,,No,48.0,Yes,No phone service,Fiber optic,Two year,YES,,50.29,2426.66,Bengaluru,11-08-2022,No
+CUST-2031,FEMALE,0,Yes,,59.0,yes,No,No,Month-to-month,Yes,Mailed check,26.24,1533.58,Chennai,17-08-2023,NO
+CUST-1462,,1,No,Yes,11.0,No,No phone service,Fiber optic,Two year,Yes,Mailed check,102.3,1089.52,Hyderabad,09-07-2020,No
+CUST-1305,Female,0,Yes,Yes,0.0,Yes,No,,Month-to-month,Yes,Credit card,99.81,0.0,Bengaluru,31-08-2019,yes
+CUST-1449,male,0,NO,Yes,7.0,Yes,Yes,DSL,Month-to-month,Yes,Electronic check,82.73,587.05,MUMBAI,13-06-2020,No
+CUST-1954,,0,Yes,N,41.0,No,No,Fiber optic,Month-to-month,YES,Mailed check,15.0,594.74,Bengaluru,17-03-2023,No
+CUST-1968,Female,0,Yes,N,51.0,Yes,Yes,No,month-to-month,No,Credit card,44.64,2235.18,Bengaluru,13-04-2023,NO
+CUST-1134,male,0,No,Yes,26.0,No,No,DSL,Month-to-month,no,Bank transfer,42.76,1135.47,Hyderabad,25-09-2018,No
+CUST-1358,Female,nan,No,N,43.0,Yes,Yes,Fiber optic,Month-to-month,YES,Electronic check,66.31,3205.38,Mumbai,15-12-2019,NO
+CUST-1308,Male,1,No,Yes,25.0,No,No,dsl,Month-to-month,No,Electronic check,56.58,1309.09,Bengaluru,06-09-2019,No
+CUST-1244,male,nan,No,No,69.0,yes,No,dsl,Two year,YES,Bank transfer,58.26,3986.5,Mumbai,02-05-2019,No
+CUST-1422,Male,1,Yes,N,31.0,Yes,No,Fiber optic,Month-to-month,No,Credit card,108.97,3405.39,Mumbai,20-04-2020,No
+CUST-1003,male,1,Yes,,54.0,Yes,No phone service,No,Month-to-month,Yes,Bank transfer,30.18,1656.76,Delhi,06-01-2018,NO
+CUST-1196,male,0,Yes,Y,15.0,Yes,No,,month-to-month,Yes,Credit card,62.23,960.89,Bengaluru,26-01-2019,Yes
+CUST-1492,male,nan,NO,Yes,50.0,No,,,month-to-month,Yes,Bank transfer,136.48,6692.44,MUMBAI,07-09-2020,Yes
+CUST-1168,Female,0,No,No,29.0,Yes,,Fiber optic,Month-to-month,Yes,Mailed check,33.98,1055.73,Hyderabad,01-12-2018,No
+CUST-1399,Female,0,,No,29.0,No,No phone service,Fiber optic,Month-to-month,No,Electronic check,118.56,3200.95,Hyderabad,06-03-2020,Yes
+CUST-1017,Male,0,,Yes,63.0,Yes,No phone service,,One year,No,Bank transfer,19.0,1226.05,MUMBAI,03-02-2018,Yes
+CUST-1598,,nan,yes,Yes,64.0,No,Yes,Fiber optic,One year,No,Mailed check,53.49,3292.56,Chennai,06-04-2021,No
+CUST-1026,Female,0,yes,No,16.0,Yes,Yes,No,Month-to-month,Yes,Electronic check,75.38,1153.45,,21-02-2018,1
+CUST-1825,Male,0,Yes,Yes,37.0,Yes,No,No,Month-to-month,No,Bank transfer,86.65,3401.57,Hyderabad,02-07-2022,NO
+CUST-1934,FEMALE,0,yes,Yes,29.0,No,,Fiber optic,,YES,Credit card,88.03,2576.57,Bengaluru,05-02-2023,NO
+CUST-1962,Male,0,Yes,No,67.0,Yes,No,dsl,Two year,Yes,Credit card,58.81,3822.47,Hyderabad,01-04-2023,NO
+CUST-2036,Female,0,,Yes,42.0,Yes,,Fiber optic,Month-to-month,No, Electronic check,52.05,2346.89,bengaluru,27-08-2023,NO
+CUST-1228,male,0,yes,N,,Yes,No,No,Month-to-month,Yes,Bank transfer,80.12,0.0,Mumbai,31-03-2019,1
+CUST-1762,Male,nan,Yes,Yes,47.0,no,Yes,Fiber optic,,No,Electronic check,54.68,2583.7,Mumbai,27-02-2022,yes
+CUST-2020, Male,0,Yes,N,58.0,No,No,Fiber optic,month-to-month,YES,Bank transfer,54.04,3485.79,Mumbai,26-07-2023,yes
+CUST-1547,Male,0,Yes,Y,20.0,Yes,No,DSL,One year,Yes,Bank transfer,59.35,1117.13,Chennai,26-12-2020,Yes
+CUST-1061,Female,0,,No,22.0,yes,No,DSL,Month-to-month,No,Mailed check,106.94,2326.33,MUMBAI,02-05-2018,No
+CUST-1841,FEMALE,0,,No,52.0,Yes,,No,Two year,Yes,Electronic check,86.58,4244.3,Hyderabad,03-08-2022,Yes
+CUST-1699,Female,0,No,Yes,8.0,Yes,No,Fiber optic,Two year,YES,Mailed check,15.0,118.2,bengaluru,24-10-2021,yes
+CUST-2065,,0,Yes,Yes,57.0,No,No phone service,DSL,One year,YES, Electronic check,50.22,2840.15,Delhi,24-10-2023,No
+CUST-1083,Male,0,yes,No,22.0,No,No,Fiber optic,Month-to-month,Yes,,95.2,1940.41,Mumbai,15-06-2018,Yes
+CUST-1204,Male,1,NO,Y,56.0,No,No phone service,DSL,Month-to-month,No, Electronic check,87.1,5086.77,Bengaluru,11-02-2019,No
+CUST-1959,Female,0,No,No,26.0,Yes,,No,One year,YES,Electronic check,39.16,981.51,Chennai,27-03-2023,1
+CUST-1420,male,0,NO,No,11.0,Yes,,fiber optic,Month-to-month,No,Credit card,113.06,1305.4,Bengaluru,16-04-2020,No
+CUST-1660,Male,0,No,No,11.0,No,No,Fiber optic,Month-to-month,No,Electronic check,15.0,152.51,Bengaluru,08-08-2021,0
+CUST-1597,male,0,No,No,38.0,No,No phone service,DSL,Month-to-month,No,Credit card,67.72,2646.44,,04-04-2021,No
+CUST-1350,male,1,No,No,61.0,No,No,Fiber optic,Month-to-month,Yes,Mailed check,95.07,5652.76,Delhi,29-11-2019,No
+CUST-1789,male,1,yes,Yes,23.0,Yes,No,dsl,Month-to-month,No,Mailed check,65.28,1516.99,Chennai,22-04-2022,No
+CUST-1457,Female,0,No,No,14.0,No,No,No,Two year,No,Mailed check,33.15,500.04,Mumbai,29-06-2020,No
+CUST-1252,Female,0,yes,No,3.0,Yes,Yes,DSL,Month-to-month,No,Credit card,63.83,201.31,Delhi,18-05-2019,NO
+CUST-1336,Male,0,NO,N,46.0,yes,No,Fiber optic,Month-to-month,No,Electronic check,43.77,2038.07,Bengaluru,01-11-2019,No
+CUST-1821,male,0,yes,N,37.0,yes,No phone service,fiber optic,One year,Yes, Electronic check,15.0,586.75,Bengaluru,25-06-2022,1
+CUST-1572,Female,0,NO,Yes,1.0,No,No phone service,Fiber optic,Month-to-month,No,,55.14,53.46,Chennai,13-02-2021,Yes
+CUST-1514,Female,1,NO,No,8.0,Yes,Yes,DSL,Month-to-month,Yes,Credit card,84.47,705.33,Bengaluru,21-10-2020,1
+CUST-1895, Male,0,Yes,No,47.0,Yes,,No,Month-to-month,YES,Electronic check,68.31,3157.11,,19-11-2022,No
+CUST-1253,Male,0,NO,No,52.0,No,No phone service,,Month-to-month,Yes,Mailed check,77.6,3697.08,MUMBAI,20-05-2019,Yes
+CUST-1553, Male,0,Yes,No,8.0,Yes,No,Fiber optic,Two year,No, Electronic check,54.46,427.97,Chennai,06-01-2021,yes
+CUST-1478,male,nan,yes,N,71.0,Yes,No,DSL,Month-to-month,Yes,Bank transfer,100.75,7425.86,MUMBAI,10-08-2020,No
+CUST-1701,Female,0,,No,14.0,Yes,No phone service,DSL,,YES,Bank transfer,33.58,473.6,Hyderabad,28-10-2021,No
+CUST-1344,FEMALE,0,No,Yes,60.0,No,No,DSL,One year,Yes,Credit card,53.95,3282.03,bengaluru,17-11-2019,Yes
+CUST-1074,Male,0,NO,No,28.0,Yes,No,dsl,Month-to-month,YES,Mailed check,47.97,1231.59,Delhi,28-05-2018,No
+CUST-2088,Female,0,Yes,Y,68.0,yes,No,DSL,One year,Yes,Credit card,64.36,4263.36,,09-12-2023,No
+CUST-1909,Female,0,,Yes,6.0,No,No phone service,dsl,Month-to-month,No,Credit card,53.79,348.34,bengaluru,17-12-2022,No
+CUST-1454,Male,0,No,No,63.0,Yes,No phone service,DSL,Month-to-month,No,Bank transfer,47.88,3262.54,Mumbai,23-06-2020,No
+CUST-1777,Male,0,yes,No,9.0,no,No,No,Two year,No,Mailed check,103.94,892.94,Chennai,29-03-2022,yes
+CUST-1057,male,0,NO,No,17.0,Yes,No,dsl,Month-to-month,Yes,Credit card,15.0,241.2,,24-04-2018,No
+CUST-1861,FEMALE,1,No,No,43.0,Yes,No phone service,,One year,Yes,Electronic check,90.76,4037.63,Chennai,12-09-2022,yes
+CUST-1746,Female,0,No,Yes,1.0,No,Yes,DSL,Month-to-month,No,Electronic check,38.82,40.78,,26-01-2022,Yes
+CUST-1423,Male,0,,No,22.0,yes,No,dsl,Month-to-month,YES,,87.19,1991.51,Mumbai,22-04-2020,Yes
+CUST-1738,Female,0,Yes,No,40.0,yes,No,dsl,Two year,Yes,Electronic check,91.1,3604.07,Mumbai,10-01-2022,No
+CUST-1845, Male,nan,,No,48.0,Yes,No phone service,Fiber optic,Two year,YES,,50.29,2426.66,Bengaluru,11-08-2022,No
+CUST-1217,Male,0,No,Yes,55.0,No,Yes,Fiber optic,One year,Yes,Credit card,117.72,6126.78,Hyderabad,09-03-2019,Yes
+CUST-1414,Male,1,Yes,N,65.0,No,,,Month-to-month,Yes,Electronic check,48.42,3058.03,Delhi,04-04-2020,No
+CUST-1568,Female,0,NO,No,56.0,No,No,Fiber optic,One year,No,Mailed check,71.33,4023.43,Bengaluru,05-02-2021,NO
+CUST-1600,Female,nan,,Yes,34.0,No,,No,Month-to-month,YES,Credit card,43.05,1455.69,Chennai,10-04-2021,yes
+CUST-1563,male,0,No,No,3.0,No,No,fiber optic,,No,Electronic check,19.02,57.56,Hyderabad,26-01-2021,Yes
+CUST-1339, Male,nan,No,No,42.0,Yes,Yes,DSL,Month-to-month,YES,Bank transfer,70.65,2966.45,Mumbai,07-11-2019,yes
+CUST-1327,Female,0,,Y,59.0,No,,No,Month-to-month,YES,Credit card,78.61,4801.14,Bengaluru,14-10-2019,yes
+CUST-1435,Male,0,No,,40.0,No,No,fiber optic,One year,no,Bank transfer,39.68,1583.25,Mumbai,16-05-2020,No
+CUST-2071,male,0,No,Yes,11.0,No,,DSL,Two year,Yes,,45.25,447.33,Hyderabad,05-11-2023,Yes
+CUST-1978,Female,0,Yes,No,46.0,No,No,Fiber optic,Month-to-month,Yes, Electronic check,44.95,2111.78,Mumbai,03-05-2023,No
+CUST-1773, Male,nan,,Yes,23.0,Yes,Yes,,month-to-month,No,Electronic check,67.03,1482.89,,21-03-2022,No
+CUST-2010,male,0,No,No,72.0,No,No,No,Month-to-month,Yes,Electronic check,72.05,5293.48,Chennai,06-07-2023,No
+CUST-1006,FEMALE,0,yes,Yes,43.0,No,No,Fiber optic,One year,No,,70.66,2906.58,MUMBAI,12-01-2018,No
+CUST-1306,Female,nan,,Yes,34.0,yes,No,fiber optic,month-to-month,No,Bank transfer,94.86,3179.34,Mumbai,02-09-2019,NO
+CUST-1534,Male,nan,Yes,No,68.0,Yes,No phone service,DSL,Month-to-month,Yes,Mailed check,39.78,2685.09,Delhi,30-11-2020,Yes
+CUST-1540,,0,Yes,Y,50.0,Yes,No,DSL,Two year,No,Electronic check,68.39,3457.3,Bengaluru,12-12-2020,1
+CUST-1138,FEMALE,0,No,Yes,65.0,No,No,No,Month-to-month,Yes,Bank transfer,47.47,3253.76,MUMBAI,02-10-2018,No
+CUST-1163,Male,nan,NO,No,46.0,Yes,No,DSL,Two year,Yes,Electronic check,34.71,1766.23,Bengaluru,21-11-2018,yes
+CUST-2016,male,0,No,,18.0,No,No,DSL,Month-to-month,No,Mailed check,86.37,1670.95,Bengaluru,18-07-2023,Yes
+CUST-1415,Male,0,No,N,15.0,Yes,No,,One year,No,Mailed check,62.72,930.28,Hyderabad,06-04-2020,No
+CUST-1947, Male,0,yes,Yes,42.0,Yes,Yes,dsl,,Yes, Electronic check,74.38,3354.36,bengaluru,03-03-2023,No
+CUST-1043,Female,1,Yes,Yes,13.0,Yes,Yes,,One year,YES,Bank transfer,79.73,966.87,,27-03-2018,No
+CUST-1788,FEMALE,1,Yes,Yes,36.0,Yes,Yes,fiber optic,Two year,Yes,Electronic check,31.77,1192.94,Delhi,20-04-2022,No
+CUST-1648,male,0,NO,N,56.0,Yes,Yes,No,month-to-month,no,Credit card,83.19,4517.56,Chennai,15-07-2021,No
+CUST-1673,FEMALE,1,Yes,Yes,49.0,No,Yes,fiber optic,Two year,no,Electronic check,33.47,1546.17,Mumbai,03-09-2021,0
+CUST-1668,Female,0,,No,64.0,Yes,No,DSL,One year,YES,Electronic check,73.55,4953.27,Bengaluru,24-08-2021,No
+CUST-1853, Male,nan,NO,No,13.0,Yes,Yes,dsl,Month-to-month,No,Electronic check,18.45,205.55,Delhi,27-08-2022,yes
+CUST-1407,FEMALE,0,Yes,Y,47.0,No,Yes,fiber optic,Month-to-month,Yes,Mailed check,15.0,728.21,Bengaluru,22-03-2020,NO
+CUST-1602, Male,1,Yes,Y,71.0,No,No,Fiber optic,Two year,Yes, Electronic check,66.63,4497.9,MUMBAI,14-04-2021,Yes
+CUST-1891,,0,,Y,22.0,Yes,Yes,DSL,One year,No,Mailed check,38.89,775.32,,11-11-2022,NO
+CUST-1019,male,1,No,No,11.0,Yes,,Fiber optic,Month-to-month,No,Credit card,98.56,1121.32,bengaluru,07-02-2018,No
+CUST-1652,male,1,NO,,51.0,Yes,No phone service,fiber optic,One year,No,Mailed check,71.5,3455.19,,23-07-2021,No
+CUST-1938, Male,0,NO,No,67.0,No,Yes,,Month-to-month,Yes,Electronic check,49.63,3352.06,Hyderabad,13-02-2023,No
+CUST-1347,Male,0,Yes,No,26.0,Yes,,DSL,Two year,Yes,Credit card,53.27,1370.9,Hyderabad,23-11-2019,No
+CUST-1591,Female,nan,Yes,Y,48.0,No,No phone service,dsl,Two year,YES,Bank transfer,57.82,2715.98,Chennai,23-03-2021,Yes
+CUST-1918,Female,0,Yes,,40.0,No,No phone service,No,Month-to-month,YES,Bank transfer,87.67,3573.88,Mumbai,04-01-2023,No
+CUST-1863,male,0,NO,No,21.0,No,No phone service,No,Month-to-month,no,,23.72,522.2,Hyderabad,16-09-2022,Yes
+CUST-1731,Male,nan,Yes,No,19.0,no,Yes,DSL,Month-to-month,No,Mailed check,69.21,1358.52,MUMBAI,27-12-2021,No
+CUST-1137,Female,1,No,No,72.0,No,Yes,,,No,Bank transfer,58.2,4369.45,Delhi,01-10-2018,No
+CUST-1385,,0,No,Yes,53.0,no,No,,Month-to-month,No,Electronic check,84.22,4247.16,Mumbai,07-02-2020,No
+CUST-1185,male,nan,NO,Y,,No,Yes,dsl,month-to-month,No,Credit card,42.03,0.0,,04-01-2019,Yes
+CUST-1840,Male,0,No,No,26.0,No,Yes,Fiber optic,Month-to-month,No,Credit card,33.4,859.54,MUMBAI,01-08-2022,Yes
+CUST-1720,Female,nan,,Yes,23.0,no,No,No,Month-to-month,Yes,Bank transfer,15.0,328.86,Bengaluru,05-12-2021,yes
+CUST-1972,Male,0,yes,N,60.0,No,No,DSL,Month-to-month,No, Electronic check,46.63,2485.46,,21-04-2023,No
+CUST-1818,male,0,No,No,29.0,No,No,fiber optic,Two year,No,Credit card,68.02,1900.56,Delhi,19-06-2022,1
+CUST-1708,Female,1,,Yes,59.0,No,No,Fiber optic,One year,YES,Bank transfer,55.19,3369.61,bengaluru,11-11-2021,No
+CUST-1890,Female,0,NO,Yes,0.0,No,No phone service,DSL,One year,No, Electronic check,41.67,0.0,,09-11-2022,1
+CUST-1839,Female,0,yes,N,40.0,Yes,Yes,Fiber optic,,No,Mailed check,44.51,1794.63,,30-07-2022,Yes
+CUST-1615,FEMALE,0,No,No,31.0,Yes,No,fiber optic,,No,Electronic check,49.93,1722.83,Delhi,10-05-2021,No
+CUST-1798,FEMALE,0,,Y,40.0,Yes,,fiber optic,Month-to-month,Yes, Electronic check,17.02,706.17,Delhi,10-05-2022,yes
+CUST-1586,Male,0,yes,,58.0,No,No,DSL,Month-to-month,no, Electronic check,62.29,3648.65,bengaluru,13-03-2021,yes
+CUST-1836,FEMALE,0,yes,No,72.0,No,No,,month-to-month,No,Bank transfer,15.0,1018.88,MUMBAI,24-07-2022,0
+CUST-1148,Female,1,Yes,No,68.0,yes,No,Fiber optic,Two year,no,Bank transfer,30.29,2086.17,,22-10-2018,yes
+CUST-1806,male,1,No,Y,23.0,Yes,Yes,DSL,Month-to-month,Yes,Electronic check,57.31,1331.71,,26-05-2022,No
+CUST-1644,male,0,Yes,Yes,54.0,Yes,No phone service,,Two year,No,Electronic check,101.55,5169.92,Mumbai,07-07-2021,No
+CUST-1886,Female,0,Yes,Yes,,Yes,Yes,DSL,Month-to-month,No,Electronic check,57.14,0.0,Mumbai,01-11-2022,Yes
+CUST-2009,Female,0,Yes,No,51.0,Yes,Yes,Fiber optic,Month-to-month,No,Mailed check,118.99,6341.02,Delhi,04-07-2023,No
+CUST-1928,male,0,yes,No,62.0,Yes,Yes,DSL,Month-to-month,No,,53.1,3103.32,Mumbai,24-01-2023,NO
+CUST-1884,Male,0,NO,,47.0,No,No phone service,Fiber optic,Month-to-month,No,Electronic check,115.37,5649.58,,28-10-2022,0
+CUST-1797,Male,0,Yes,No,61.0,yes,No phone service,,Month-to-month,Yes,Electronic check,43.38,2840.91,,08-05-2022,No
+CUST-1893,Male,0,,N,10.0,Yes,No phone service,,Month-to-month,no,Mailed check,47.38,471.51,Bengaluru,15-11-2022,NO
+CUST-1232,,0,No,No,47.0,Yes,No,Fiber optic,One year,No,Electronic check,105.84,5142.81,,08-04-2019,yes
+CUST-1509,Male,1,yes,N,30.0,Yes,No,No,One year,YES,Credit card,50.88,1435.11,Hyderabad,11-10-2020,Yes
+CUST-2003,Male,nan,yes,No,21.0,No,No,fiber optic,Month-to-month,Yes,Credit card,104.93,2170.21,Mumbai,22-06-2023,Yes
+CUST-1158,FEMALE,0,,Yes,30.0,Yes,Yes,Fiber optic,month-to-month,No,Bank transfer,76.2,2423.41,Bengaluru,11-11-2018,No
+CUST-1256,FEMALE,0,yes,No,61.0,Yes,No phone service,No,Month-to-month,YES,Electronic check,57.05,3715.14,Bengaluru,26-05-2019,No
+CUST-1643,Male,nan,Yes,No,39.0,Yes,No,DSL,Month-to-month,No,Credit card,26.41,1026.73,Chennai,05-07-2021,Yes
+CUST-1096,Female,0,yes,Yes,20.0,Yes,No phone service,DSL,Month-to-month,no,Bank transfer,32.94,606.19,Mumbai,11-07-2018,1
+CUST-2085,FEMALE,0,yes,,43.0,Yes,No,DSL,Month-to-month,No,,82.02,3655.01,MUMBAI,03-12-2023,No
+CUST-1883,Female,0,NO,No,31.0,Yes,No,,Month-to-month,Yes,Credit card,66.22,2029.7,Bengaluru,26-10-2022,No
+CUST-1724,Male,0,Yes,N,35.0,No,Yes,,One year,Yes,Bank transfer,73.88,2506.52,Mumbai,13-12-2021,No
+CUST-1397,Female,0,No,Yes,24.0,Yes,No phone service,fiber optic,month-to-month,Yes, Electronic check,49.86,1189.77,Delhi,02-03-2020,No
+CUST-1314,Female,0,Yes,No,37.0,No,Yes,Fiber optic,One year,Yes,Electronic check,24.65,991.28,Hyderabad,18-09-2019,No
+CUST-1922,male,0,No,No,9.0,Yes,Yes,No,Month-to-month,No,Bank transfer,48.3,460.75,,12-01-2023,NO
+CUST-1432,male,0,NO,No,42.0,Yes,Yes,No,One year,Yes,Credit card,64.8,2819.77,Hyderabad,10-05-2020,Yes
+CUST-1594,Male,0,NO,,12.0,No,No,fiber optic,Two year,Yes,Bank transfer,15.0,180.74,Bengaluru,29-03-2021,No
+CUST-2012,Female,0,NO,No,24.0,yes,Yes,Fiber optic,Two year,no,Bank transfer,84.41,2053.07,Delhi,10-07-2023,1
+CUST-1249,Female,0,No,N,-1.0,No,No,Fiber optic,Month-to-month,Yes,Mailed check,68.05,-69.63,bengaluru,12-05-2019,No
+CUST-2024,male,1,Yes,Yes,2.0,No,,Fiber optic,Month-to-month,No,Electronic check,87.28,176.79,Bengaluru,03-08-2023,NO
+CUST-1015,Male,0,Yes,Yes,27.0,No,Yes,Fiber optic,Month-to-month,No,Electronic check,66.1,1920.61,Chennai,30-01-2018,No
+CUST-1159,FEMALE,nan,Yes,N,70.0,yes,Yes,Fiber optic,Month-to-month,Yes,Mailed check,72.86,5452.21,Hyderabad,13-11-2018,No
+CUST-1613,,1,Yes,No,6.0,No,No,DSL,Month-to-month,No,Mailed check,45.79,263.5,Bengaluru,06-05-2021,NO
+CUST-1963,Male,0,yes,N,43.0,No,Yes,DSL,month-to-month,YES,Bank transfer,74.39,3439.07,bengaluru,03-04-2023,Yes
+CUST-1048,male,0,No,N,25.0,No,No,No,Month-to-month,YES,Electronic check,32.88,822.87,Hyderabad,06-04-2018,NO
+CUST-1635,Male,0,yes,No,43.0,Yes,No,No,Two year,Yes,Bank transfer,59.7, ,bengaluru,19-06-2021,1
+CUST-1484,Male,0,Yes,No,1.0,No,No,,Month-to-month,Yes,Bank transfer,46.73,45.08,,22-08-2020,0
+CUST-1897,Male,0,No,N,9.0,no,No phone service,No,,no,Bank transfer,51.57,508.92,Hyderabad,23-11-2022,No
+CUST-1112,Female,0,No,No,49.0,yes,No,,,no,Electronic check,15.0,714.82,Chennai,12-08-2018,No
+CUST-2046,Male,0,No,N,41.0,Yes,Yes,,Month-to-month,Yes,Electronic check,69.2,2855.28,Delhi,16-09-2023,No
+CUST-1736,Male,0,No,No,53.0,Yes,No,fiber optic,,Yes,Electronic check,15.0,766.97,,06-01-2022,yes
+CUST-2061,male,0,yes,No,55.0,Yes,No phone service,DSL,month-to-month,Yes,Mailed check,58.52,3370.58,,16-10-2023,No
+CUST-1396,FEMALE,1,Yes,No,66.0,No,No phone service,DSL,Two year,No,Credit card,78.97,4805.13,Hyderabad,29-02-2020,No
+CUST-1721,Female,0,Yes,Yes,36.0,yes,,dsl,One year,no,Bank transfer,72.18,2738.43,Mumbai,07-12-2021,No
+CUST-1483,Female,0,No,Yes,0.0,Yes,No phone service,Fiber optic,Month-to-month,no,Mailed check,34.7,0.0,Delhi,20-08-2020,NO
+CUST-1445,FEMALE,1,NO,Y,46.0,Yes,,No,One year,Yes,Credit card,37.32,1587.91,Bengaluru,05-06-2020,No
+CUST-1127,Male,0,Yes,N,70.0,no,No,No,Month-to-month,YES,Electronic check,89.71,6065.52,bengaluru,11-09-2018,Yes
+CUST-1379,FEMALE,0,,Yes,64.0,no,No phone service,dsl,Two year,No,Electronic check,64.9,4155.57,Bengaluru,26-01-2020,No
+CUST-1791,Female,0,NO,N,13.0,No,No,,Two year,No,Electronic check,123.17,1684.69,Mumbai,26-04-2022,Yes
+CUST-1504,Female,0,yes,Yes,33.0,Yes,Yes,DSL,month-to-month,No,Bank transfer,25.13,878.63,Bengaluru,01-10-2020,1
+CUST-1237,FEMALE,0,yes,No,55.0,Yes,Yes,Fiber optic,One year,No,Electronic check,28.13,1559.78,Delhi,18-04-2019,No
+CUST-1167,FEMALE,nan,No,No,17.0,Yes,No,No,,Yes,Electronic check,26.49,469.34,Bengaluru,29-11-2018,No
+CUST-1866, Male,0,No,Yes,44.0,Yes,Yes,,One year,no,Electronic check,107.02,4216.88,Hyderabad,22-09-2022,yes
+CUST-1761,Male,nan,,Y,22.0,no,No,Fiber optic,One year,Yes,Bank transfer,110.47,2366.69,Mumbai,25-02-2022,Yes
+CUST-1080,male,0,No,No,33.0,No,No,Fiber optic,Month-to-month,Yes,Electronic check,38.95,1281.52,Chennai,09-06-2018,Yes
+CUST-1564,male,nan,Yes,,24.0,Yes,No,dsl,Month-to-month,Yes,Electronic check,97.24,2290.26,Chennai,28-01-2021,No
+CUST-1300,FEMALE,1,Yes,No,16.0,No,Yes,DSL,Month-to-month,YES,Credit card,52.92,849.49,Bengaluru,21-08-2019,Yes
+CUST-1696,FEMALE,0,,Yes,28.0,Yes,No,Fiber optic,Two year,Yes,Bank transfer,33.17,953.07,,18-10-2021,No
+CUST-1324, Male,1,,Y,0.0,Yes,Yes,No,Month-to-month,YES,Mailed check,41.91,0.0,MUMBAI,08-10-2019,yes
+CUST-1367,male,0,Yes,Yes,71.0,No,Yes,DSL,Month-to-month,Yes,Credit card,48.71,3322.3,bengaluru,02-01-2020,Yes
+CUST-1215,FEMALE,0,Yes,N,13.0,Yes,No,DSL,Two year,Yes,Mailed check,81.24,1034.19,Mumbai,05-03-2019,No
+CUST-1426,Male,1,No,,52.0,Yes,Yes,No,Two year,No,Bank transfer,15.0,768.56,Delhi,28-04-2020,NO
+CUST-1030,FEMALE,nan,No,,68.0,No,No,No,,No,Electronic check,80.04,5188.77,MUMBAI,01-03-2018,Yes
+CUST-1242,Male,0,Yes,N,39.0,Yes,No,No,Two year,no,Credit card,100.75,3828.8,bengaluru,28-04-2019,yes
+CUST-1990,male,1,Yes,Yes,14.0,No,Yes,No,month-to-month,No,Electronic check,53.98,752.03,Delhi,27-05-2023,NO
+CUST-1760,FEMALE,0,NO,,40.0,Yes,Yes,,Month-to-month,Yes,Electronic check,40.04,1600.87,,23-02-2022,0
+CUST-1837,,0,Yes,N,39.0,Yes,No,Fiber optic,Month-to-month,No, Electronic check,100.62,3820.37,Chennai,26-07-2022,No
+CUST-1627,Male,1,Yes,N,65.0,No,No,DSL,One year,Yes,Mailed check,64.68,4215.27,Bengaluru,03-06-2021,No
+CUST-1447,male,0,NO,N,65.0,Yes,Yes,No,One year,No,Bank transfer,25.83,1837.79,MUMBAI,09-06-2020,Yes
+CUST-1653,Male,1,No,Y,58.0,No,No,Fiber optic,,No,Electronic check,74.42,4253.15,Mumbai,25-07-2021,Yes
+CUST-1802, Male,1,Yes,No,11.0,yes,No,No,One year,Yes,Mailed check,76.28,761.96,Bengaluru,18-05-2022,Yes
+CUST-1027,Male,0,Yes,N,10.0,No,,No,Month-to-month,no,Mailed check,73.98,709.78,Bengaluru,23-02-2018,NO
+CUST-2042,male,0,,No,48.0,no,No phone service,,Month-to-month,No,Credit card,70.15,3269.98,Hyderabad,08-09-2023,No
+CUST-1122,Male,1,No,Y,47.0,No,Yes,DSL,month-to-month,No,,78.21,3524.56,Bengaluru,01-09-2018,Yes
+CUST-2070, Male,1,,No,47.0,Yes,No phone service,fiber optic,,No,Electronic check,115.24,5324.9,Mumbai,03-11-2023,1
+CUST-2047,FEMALE,nan,NO,N,64.0,Yes,No,No,Two year,No,Credit card,80.79,5056.56,Delhi,18-09-2023,No
+CUST-1876,Female,0,No,No,59.0,No,No,Fiber optic,Two year,Yes, Electronic check,127.76,8652.81,Chennai,12-10-2022,No
+CUST-1820,Male,0,No,,13.0,No,No phone service,Fiber optic,Month-to-month,No,Electronic check,59.07,747.61,Delhi,23-06-2022,No
+CUST-1945,Male,0,yes,No,50.0,Yes,Yes,,Two year,YES,Electronic check,60.37,2689.83,Delhi,27-02-2023,Yes
+CUST-1983,Female,0,Yes,Yes,20.0,No,No phone service,Fiber optic,month-to-month,no,Credit card,126.38,2575.18,Mumbai,13-05-2023,No
+CUST-1202,Female,0,NO,Yes,49.0,yes,No,DSL,Two year,YES,Bank transfer,64.72,3258.87,Bengaluru,07-02-2019,0
+CUST-1576, Male,0,yes,Yes,30.0,Yes,Yes,DSL,month-to-month,Yes,Electronic check,41.26,1286.84,Delhi,21-02-2021,Yes
+CUST-1362,Male,0,yes,N,48.0,No,No,DSL,One year,YES,Credit card,70.79,3648.35,Mumbai,23-12-2019,Yes
+CUST-1271,Male,nan,NO,Yes,6.0,Yes,,fiber optic,Two year,Yes,Bank transfer,181.23,1094.44,,25-06-2019,No
+CUST-1446,,0,yes,No,67.0,No,No phone service,dsl,Month-to-month,No,Credit card,46.62,3124.27,,07-06-2020,Yes
+CUST-1272,Male,1,yes,No,1.0,Yes,No,DSL,Month-to-month,no,,98.45,94.72,bengaluru,27-06-2019,No
+CUST-1277,Female,1,Yes,No,10.0,yes,Yes,,Month-to-month,YES,Credit card,34.17,353.75,Hyderabad,06-07-2019,Yes
+CUST-1961,Female,0,,N,10.0,No,No,DSL,Month-to-month,No,Electronic check,116.97,1201.75,Hyderabad,31-03-2023,yes
+CUST-1012,male,0,NO,No,,Yes,No,No,Month-to-month,YES,Credit card,85.28, ,Delhi,24-01-2018,Yes
+CUST-1530,male,0,Yes,No,7.0,Yes,No,Fiber optic,month-to-month,No,Bank transfer,72.61,487.94,Mumbai,22-11-2020,yes
+CUST-1916,Male,0,Yes,Y,44.0,Yes,No,fiber optic,One year,No,Electronic check,50.49,2167.22,Bengaluru,31-12-2022,No
+CUST-1838,Female,0,Yes,Y,65.0,Yes,No,DSL,month-to-month,No,Electronic check,58.16,3677.11,Delhi,28-07-2022,No
+CUST-1147,Female,0,NO,N,2.0,No,Yes,No,Two year,No,Bank transfer,33.75,68.91,Delhi,20-10-2018,No
+CUST-1299,male,1,No,No,20.0,Yes,No phone service,fiber optic,Month-to-month,Yes, Electronic check,73.27,1515.87,Mumbai,19-08-2019,No
+CUST-1115, Male,0,Yes,Yes,42.0,Yes,No,No,Month-to-month,No,Credit card,97.19,4075.41,Bengaluru,18-08-2018,1
+CUST-1375,Male,0,yes,N,66.0,Yes,No phone service,Fiber optic,Month-to-month,Yes,Credit card,117.0,8890.59,Chennai,18-01-2020,Yes
+CUST-1905,male,1,yes,N,58.0,No,Yes,DSL,Month-to-month,YES,Mailed check,47.93,2633.58,,09-12-2022,No
+CUST-1786,FEMALE,0,Yes,No,67.0,Yes,No,Fiber optic,Two year,YES,,65.88,4568.11,Bengaluru,16-04-2022,No
+CUST-1664,Female,0,No,No,9.0,yes,Yes,Fiber optic,Month-to-month,Yes,Electronic check,29.57,244.71,MUMBAI,16-08-2021,Yes
+CUST-1177,,0,yes,,21.0,Yes,No phone service,dsl,month-to-month,No,Credit card,93.7,1826.08,,19-12-2018,NO
+CUST-1466,male,0,NO,No,38.0,No,No phone service,Fiber optic,Two year,Yes,Mailed check,52.08,1990.4,Hyderabad,17-07-2020,No
+CUST-1051,Male,1,NO,Yes,27.0,Yes,Yes,No,Month-to-month,YES,Credit card,31.67,847.52,Hyderabad,12-04-2018,No
+CUST-1752,Male,0,Yes,No,35.0,no,,DSL,Month-to-month,Yes,Credit card,45.82,1612.83,Bengaluru,07-02-2022,No
+CUST-2015,Male,nan,yes,No,8.0,Yes,Yes,,Month-to-month,Yes,Bank transfer,80.32,661.05,,16-07-2023,yes
+CUST-1804,Male,0,Yes,,31.0,yes,No,No,Two year,no,Credit card,76.33,2214.96,Delhi,22-05-2022,Yes
+CUST-1388,Male,1,No,No,29.0,No,Yes,DSL,Month-to-month,YES,,41.74,1175.9,Hyderabad,13-02-2020,No
+CUST-1022,,1,No,Y,47.0,No,No,DSL,Month-to-month,No,Electronic check,40.37,1826.08,Hyderabad,13-02-2018,0
+CUST-1771,male,1,yes,No,63.0,No,No,DSL,,YES,Mailed check,20.09,1187.97,Hyderabad,17-03-2022,No
+CUST-1408,Male,0,yes,No,26.0,Yes,No phone service,No,Two year,Yes,Credit card,56.17,1405.82,,24-03-2020,NO
+CUST-2086,FEMALE,1,yes,No,45.0,Yes,No phone service,,Two year,YES,Mailed check,68.13,2976.61,MUMBAI,05-12-2023,yes
+CUST-1785,Female,0,Yes,,20.0,yes,No,DSL,Month-to-month,Yes,Mailed check,69.72,1334.73,Delhi,14-04-2022,No
+CUST-2064,Female,1,No,Y,48.0,Yes,No,Fiber optic,Two year,No,Electronic check,69.7,3400.29,bengaluru,22-10-2023,No
+CUST-1459,male,1,Yes,Yes,19.0,Yes,No phone service,DSL,One year,No,,61.22,1166.19,Bengaluru,03-07-2020,No
+CUST-1743,Male,nan,Yes,,29.0,Yes,No phone service,No,Month-to-month,Yes,Credit card,32.84,959.26,,20-01-2022,No
+CUST-2054,Female,0,Yes,N,47.0,No,No,DSL,Month-to-month,Yes, Electronic check,79.96,3602.12,MUMBAI,02-10-2023,NO
+CUST-1209,Female,nan,,No,9.0,no,No phone service,dsl,One year,No,Electronic check,75.55,751.97,Hyderabad,21-02-2019,No
+CUST-1920,Male,0,Yes,Yes,58.0,No,No phone service,DSL,Two year,No,Credit card,67.6,3674.01,bengaluru,08-01-2023,Yes
+CUST-1142, Male,1,yes,Yes,67.0,no,No,DSL,,YES, Electronic check,30.74,1911.15,Delhi,10-10-2018,NO
+CUST-1050,Male,0,No,Yes,18.0,yes,,Fiber optic,month-to-month,Yes,Credit card,50.97,931.05,Delhi,10-04-2018,0
+CUST-1351,Male,0,No,Yes,13.0,No,No,dsl,Month-to-month,Yes,Credit card,56.36,759.13,Chennai,01-12-2019,No
+CUST-1166,FEMALE,0,Yes,No,52.0,No,No,,Month-to-month,No,Credit card,77.5,3965.51,Hyderabad,27-11-2018,No
+CUST-1754,male,1,No,N,34.0,No,No phone service,DSL,Month-to-month,Yes,Credit card,48.71,1630.36,Delhi,11-02-2022,No
+CUST-1917,Male,0,yes,Yes,1.0,No,No,No,Month-to-month,No,Electronic check,51.21,50.66,Delhi,02-01-2023,No
+CUST-1081,Female,0,Yes,N,2.0,Yes,No,No,Two year,No,Credit card,70.12,135.84,Hyderabad,11-06-2018,yes
+CUST-1511, Male,0,Yes,Yes,63.0,Yes,Yes,dsl,Two year,YES,Credit card,88.56,5534.87,Chennai,15-10-2020,No
+CUST-1321,Female,0,No,No,72.0,Yes,Yes,dsl,Two year,no,Mailed check,69.1,4749.87,Bengaluru,02-10-2019,Yes
+CUST-1835,male,0,yes,Yes,36.0,yes,No phone service,DSL,,No,Mailed check,51.41,1899.75,,22-07-2022,No
+CUST-2067,male,1,NO,No,18.0,Yes,No,dsl,Two year,Yes,Electronic check,81.8,1470.5,Hyderabad,28-10-2023,Yes
+CUST-1526,,1,NO,No,11.0,No,No,Fiber optic,One year,YES,Credit card,91.51,984.1,MUMBAI,14-11-2020,No
+CUST-1066,Female,1,NO,Y,7.0,No,No,dsl,month-to-month,YES,,26.51,205.36,Hyderabad,12-05-2018,NO
+CUST-1334,Male,0,,No,15.0,Yes,No,DSL,,No,,53.48,831.11,Bengaluru,28-10-2019,1
+CUST-1503,Female,1,NO,Yes,58.0,No,No,Fiber optic,month-to-month,no, Electronic check,59.7,3180.25,Bengaluru,29-09-2020,1
+CUST-1801,Female,0,No,Y,31.0,yes,Yes,,month-to-month,Yes,,73.06,2193.48,Mumbai,16-05-2022,No
+CUST-1289,Male,0,yes,No,25.0,No,Yes,Fiber optic,One year,Yes,Mailed check,34.72,968.34,Mumbai,30-07-2019,Yes
+CUST-1894,FEMALE,0,No,No,8.0,Yes,,DSL,One year,No,Bank transfer,37.3,279.05,MUMBAI,17-11-2022,Yes
+CUST-1395,Female,0,,No,13.0,No,No,dsl,Two year,No, Electronic check,66.99, ,Mumbai,27-02-2020,NO
+CUST-1651, Male,0,No,,24.0,No,No,No,Month-to-month,No, Electronic check,69.46,1783.55,MUMBAI,21-07-2021,No
+CUST-1283,Male,nan,No,Y,2.0,No,No phone service,No,Two year,YES,Credit card,64.57,130.2,Mumbai,18-07-2019,1
+CUST-1417,FEMALE,nan,NO,N,7.0,Yes,No phone service,No,Month-to-month,No,Mailed check,134.24,962.73,Mumbai,10-04-2020,Yes
+CUST-1857, Male,0,Yes,Yes,57.0,No,No,Fiber optic,Two year,Yes,Electronic check,72.31,3826.62,Mumbai,04-09-2022,No
+CUST-1567,Male,0,yes,No,53.0,Yes,No,dsl,One year,No,Mailed check,95.39,5438.59,,03-02-2021,No
+CUST-1361,Male,0,yes,,49.0,No,No,DSL,Month-to-month,YES,Electronic check,91.22,4153.61,Mumbai,21-12-2019,0
+CUST-1623,Female,0,,,17.0,No,Yes,DSL,Month-to-month,Yes,Mailed check,79.67,1337.88,Mumbai,26-05-2021,NO
+CUST-1064,male,0,No,No,58.0,Yes,No phone service,Fiber optic,,no,,94.03,5161.71,bengaluru,08-05-2018,No
+CUST-1790,Male,0,NO,Yes,17.0,No,Yes,dsl,month-to-month,Yes,Electronic check,103.69,1901.92,Delhi,24-04-2022,Yes
+CUST-1782,Female,1,Yes,Y,59.0,Yes,No,DSL,Two year,YES,Electronic check,64.56,4046.96,Chennai,08-04-2022,No
+CUST-1264, Male,0,Yes,,44.0,No,No phone service,DSL,Two year,YES,Mailed check,18.82,866.37,Bengaluru,11-06-2019,1
+CUST-1926,Male,1,No,No,68.0,No,Yes,,Month-to-month,No,Credit card,58.57,4172.47,Mumbai,20-01-2023,yes
+CUST-1655,Female,0,,No,18.0,No,No,DSL,Month-to-month,No,Mailed check,95.64,1736.0,Mumbai,29-07-2021,No
+CUST-1733,Female,0,NO,No,48.0,Yes,,Fiber optic,month-to-month,Yes,Credit card,68.01,3184.91,Bengaluru,31-12-2021,No
+CUST-1020,FEMALE,0,No,Yes,35.0,No,,Fiber optic,Two year,No,Bank transfer,59.16,1932.79,Hyderabad,09-02-2018,No
+CUST-1065,Female,1,Yes,No,60.0,Yes,No phone service,Fiber optic,month-to-month,Yes,Electronic check,77.61,4640.42,Chennai,10-05-2018,No
+CUST-1929,FEMALE,0,,No,48.0,No,,,Two year,YES,Credit card,91.59,4019.26,bengaluru,26-01-2023,NO
+CUST-1541,Female,0,NO,No,11.0,Yes,No,DSL,,Yes,Credit card,70.74,748.74,Hyderabad,14-12-2020,NO
+CUST-2060,,1,Yes,Yes,38.0,Yes,No,DSL,Month-to-month,YES,Bank transfer,88.76,3591.13,,14-10-2023,Yes
+CUST-1296,,0,No,N,9.0,no,No,Fiber optic,One year,no,Electronic check,76.95,627.6,Mumbai,13-08-2019,No
+CUST-2044,Male,0,Yes,Y,53.0,Yes,No,DSL,Two year,Yes,Bank transfer,15.0,788.02,Chennai,12-09-2023,No
+CUST-1419, Male,0,,No,71.0,No,Yes,,One year,YES,Electronic check,95.46,6229.84,Hyderabad,14-04-2020,No
+CUST-2028,FEMALE,0,yes,N,63.0,Yes,No phone service,DSL,Month-to-month,Yes,Electronic check,69.44,4627.34,Bengaluru,11-08-2023,Yes
+CUST-1815, Male,0,yes,No,43.0,No,No,dsl,One year,YES,,50.84,2032.81,Delhi,13-06-2022,No
+CUST-2018,Male,0,Yes,N,33.0,Yes,Yes,Fiber optic,Month-to-month,Yes, Electronic check,71.92,2376.08,MUMBAI,22-07-2023,Yes
+CUST-1261,FEMALE,1,yes,No,-3.0,Yes,No phone service,Fiber optic,One year,No,Credit card,64.88,-179.22,Mumbai,05-06-2019,1
+CUST-1307,male,0,,Yes,49.0,No,Yes,DSL,One year,Yes,,35.76,1622.02,MUMBAI,04-09-2019,No
+CUST-1442,FEMALE,1,No,N,47.0,no,No,DSL,Month-to-month,No, Electronic check,92.16,4743.76,Mumbai,30-05-2020,No
+CUST-1795,Female,0,No,No,34.0,no,No,dsl,Month-to-month,No,Bank transfer,51.47,1723.27,Mumbai,04-05-2022,No
+CUST-1610,Female,0,Yes,No,61.0,no,No,DSL,Month-to-month,Yes,Electronic check,53.17,3287.88,Chennai,30-04-2021,No
+CUST-1491,male,0,No,No,72.0,No,No phone service,,Two year,YES,Electronic check,65.1,4132.25,,05-09-2020,yes
+CUST-1768,Male,0,No,,29.0,Yes,Yes,dsl,month-to-month,Yes,Mailed check,85.46,2477.23,Bengaluru,11-03-2022,NO
+CUST-1557,Female,1,yes,No,5.0,No,No,,One year,No,Mailed check,108.16,531.51,bengaluru,14-01-2021,No
+CUST-1865, Male,0,No,Yes,49.0,yes,,fiber optic,Month-to-month,no,Mailed check,57.02,2909.76,Bengaluru,20-09-2022,No
+CUST-2004,male,0,,Yes,65.0,Yes,No,No,One year,No,Electronic check,65.36, ,Bengaluru,24-06-2023,No
+CUST-1188,FEMALE,0,yes,Yes,0.0,Yes,Yes,Fiber optic,Month-to-month,Yes,,116.58,0.0,Hyderabad,10-01-2019,0
+CUST-1778,FEMALE,0,yes,Yes,9.0,No,No,DSL,Month-to-month,Yes,Electronic check,43.16,380.97,MUMBAI,31-03-2022,No
+CUST-1251, Male,1,yes,No,40.0,Yes,No,Fiber optic,,YES,Mailed check,86.25,3350.35,Delhi,16-05-2019,Yes
+CUST-1071,Female,0,yes,Yes,41.0,No,Yes,,Month-to-month,Yes,Electronic check,52.95,2188.44,Bengaluru,22-05-2018,No
+CUST-1101,male,0,NO,N,61.0,Yes,Yes,DSL,One year,No,,109.19,6622.02,bengaluru,21-07-2018,0
+CUST-1199,Female,1,No,N,56.0,yes,No,fiber optic,month-to-month,YES,Bank transfer,81.13,4159.23,Delhi,01-02-2019,No
+CUST-1578, Male,1,Yes,Yes,56.0,no,Yes,No,Month-to-month,Yes,Electronic check,50.95,2978.27,Mumbai,25-02-2021,Yes
+CUST-1510,Male,0,,No,57.0,no,Yes,Fiber optic,One year,No,Mailed check,74.37,3814.3,Chennai,13-10-2020,Yes
+CUST-1523,male,0,No,Yes,66.0,No,Yes,No,month-to-month,YES, Electronic check,95.07,6378.15,Chennai,08-11-2020,No
+CUST-1907,Male,0,yes,Yes,9.0,yes,No,,Month-to-month,Yes,Mailed check,15.0,142.19,,13-12-2022,No
+CUST-1706,FEMALE,0,,No,14.0,No,No phone service,DSL,Month-to-month,Yes,Credit card,77.85,1092.74,Hyderabad,07-11-2021,0
+CUST-1467,,0,Yes,No,19.0,Yes,Yes,DSL,month-to-month,Yes,Credit card,74.18,1390.52,bengaluru,19-07-2020,No
+CUST-1755,Male,nan,No,N,5.0,No,,Fiber optic,Month-to-month,YES,Electronic check,77.76,369.32,bengaluru,13-02-2022,Yes
+CUST-1151, Male,0,NO,No,47.0,Yes,No,Fiber optic,Two year,Yes, Electronic check,39.27,1883.51,Chennai,28-10-2018,No
+CUST-1980,,1,,Yes,23.0,No,No phone service,No,One year,YES,Mailed check,66.7,1514.28,Mumbai,07-05-2023,Yes
+CUST-1330,FEMALE,nan,yes,Yes,41.0,Yes,No,dsl,One year,Yes,Credit card,25.25,987.07,,20-10-2019,1
+CUST-1273,male,1,No,No,48.0,Yes,No,No,month-to-month,Yes, Electronic check,94.03,4438.95,bengaluru,29-06-2019,0
+CUST-1680,Male,0,Yes,Yes,42.0,Yes,No phone service,DSL,One year,Yes,Electronic check,38.86,1676.8,Hyderabad,17-09-2021,Yes
+CUST-1384,Female,0,Yes,Yes,70.0,Yes,No,No,Month-to-month,Yes,Mailed check,34.2,2494.64,Delhi,05-02-2020,Yes
+CUST-1831,Female,0,Yes,No,1.0,Yes,No,No,One year,Yes,Electronic check,53.63,50.81,bengaluru,14-07-2022,No
+CUST-1451, Male,1,No,No,45.0,Yes,No,,Month-to-month,No,Bank transfer,62.46,2676.18,Bengaluru,17-06-2020,Yes
+CUST-1365,Female,0,No,No,62.0,No,Yes,No,,YES,Mailed check,66.74,4025.64,Mumbai,29-12-2019,No
+CUST-1281,Male,0,Yes,N,3.0,yes,Yes,DSL,One year,no,Mailed check,63.39,205.62,,14-07-2019,NO
+CUST-1984,Male,0,Yes,N,34.0,Yes,No,,Month-to-month,Yes,Mailed check,52.95,1795.61,Mumbai,15-05-2023,No
+CUST-1913,,1,yes,Yes,33.0,Yes,No phone service,,One year,no,,92.79,2785.23,,25-12-2022,No
+CUST-1411,male,0,NO,N,23.0,Yes,No,No,Month-to-month,Yes,Credit card,107.37,2462.96,Mumbai,30-03-2020,No
+CUST-1748,FEMALE,1,,No,69.0,Yes,No,No,One year,No,Credit card,21.74,1442.82,Delhi,30-01-2022,No
+CUST-1631,FEMALE,0,No,No,14.0,yes,No phone service,No,Month-to-month,YES,Mailed check,81.45,1103.93,Bengaluru,11-06-2021,No
+CUST-1810,Male,0,Yes,No,70.0,No,,DSL,One year,Yes,Credit card,66.19,4760.69,Delhi,03-06-2022,0
+CUST-1585,male,0,yes,Yes,53.0,Yes,No,DSL,month-to-month,Yes,Electronic check,73.93,3743.14,MUMBAI,11-03-2021,yes
+CUST-1994, Male,nan,yes,N,72.0,No,No phone service,DSL,,No,Bank transfer,99.17,8007.89,Mumbai,04-06-2023,No
+CUST-1149,Male,nan,Yes,N,36.0,No,Yes,,Two year,Yes,Electronic check,15.0,507.56,,24-10-2018,0
+CUST-1132,male,0,NO,,43.0,Yes,Yes,Fiber optic,Month-to-month,Yes,,123.18,5196.79,MUMBAI,21-09-2018,No
+CUST-1207,male,0,Yes,N,33.0,No,,No,month-to-month,No,Electronic check,95.32,3439.27,bengaluru,17-02-2019,No
+CUST-1577,male,1,No,,62.0,Yes,No phone service,Fiber optic,One year,no,Mailed check,57.68,3598.52,Chennai,23-02-2021,No
+CUST-1218, Male,0,Yes,No,9.0,Yes,No phone service,Fiber optic,Two year,Yes,Electronic check,67.73,632.36,Hyderabad,11-03-2019,No
+CUST-1239,Male,1,NO,No,17.0,Yes,Yes,DSL,month-to-month,No,,52.37,959.03,Hyderabad,22-04-2019,0
+CUST-1632,Male,0,No,No,,No,No,,month-to-month,Yes,Mailed check,42.14,0.0,Bengaluru,13-06-2021,0
+CUST-1355,Female,0,yes,Yes,5.0,Yes,,Fiber optic,,Yes,Bank transfer,104.41,551.1,Bengaluru,09-12-2019,Yes
+CUST-1881,male,1,Yes,Yes,64.0,No,Yes,Fiber optic,Month-to-month,Yes,Credit card,22.8,1476.14,Mumbai,22-10-2022,NO
+CUST-1192,Male,0,No,N,72.0,No,No phone service,Fiber optic,Month-to-month,Yes,Electronic check,73.62,5730.72,Mumbai,18-01-2019,No
+CUST-1280,Male,1,No,N,67.0,Yes,No,DSL,month-to-month,no,Electronic check,92.32,5929.28,Hyderabad,12-07-2019,No
+CUST-1191,Male,0,NO,Yes,26.0,Yes,No,,One year,No,Credit card,85.41,2212.17,Hyderabad,16-01-2019,Yes
+CUST-1518,Male,nan,Yes,Y,32.0,yes,No phone service,Fiber optic,Two year,No,Credit card,19.92,634.66,Chennai,29-10-2020,No
+CUST-2074, Male,1,yes,No,64.0,No,No,Fiber optic,Month-to-month,no, Electronic check,43.39,2884.98,Chennai,11-11-2023,yes
+CUST-1793,Male,0,No,Yes,13.0,Yes,Yes,Fiber optic,Month-to-month,No,Mailed check,32.04,407.94,Bengaluru,30-04-2022,No
+CUST-1620,FEMALE,0,Yes,Yes,34.0,Yes,Yes,fiber optic,One year,Yes,Credit card,70.52,2298.35,Hyderabad,20-05-2021,No
+CUST-1528,FEMALE,0,No,,31.0,Yes,,DSL,,Yes,,101.88,3036.94,Hyderabad,18-11-2020,No
+CUST-1817,Female,0,Yes,N,31.0,No,No,DSL,Two year,No, Electronic check,42.87,1241.33,Chennai,17-06-2022,yes
+CUST-2059,FEMALE,0,Yes,Y,20.0,Yes,No phone service,DSL,One year,Yes,Credit card,85.22,1614.33,bengaluru,12-10-2023,No
+CUST-1887,Male,0,No,Yes,31.0,Yes,,Fiber optic,Month-to-month,Yes,,101.07,3130.59,Mumbai,03-11-2022,No
+CUST-1323,Female,1,yes,N,17.0,Yes,Yes,No,Month-to-month,No,,119.21,2037.5,Bengaluru,06-10-2019,No
+CUST-1900,Female,1,,Yes,2.0,Yes,No,,Two year,YES,Electronic check,50.2,99.81,bengaluru,29-11-2022,Yes
+CUST-1895, Male,0,Yes,No,47.0,Yes,,No,Month-to-month,YES,Electronic check,68.31,3157.11,,19-11-2022,No
+CUST-1964,,1,yes,Y,-3.0,Yes,,Fiber optic,Month-to-month,Yes,Credit card,66.6,-209.19,Delhi,05-04-2023,No
+CUST-1437,Female,0,Yes,Y,32.0,Yes,Yes,DSL,Two year,No,Mailed check,62.5,1894.78,Delhi,20-05-2020,No
+CUST-1679,Female,0,Yes,Y,46.0,No,No,Fiber optic,Month-to-month,no,Bank transfer,88.45,4074.51,Bengaluru,15-09-2021,NO
+CUST-1739,Female,0,Yes,N,51.0,yes,No,DSL,One year,Yes,Electronic check,59.89,3085.83,Hyderabad,12-01-2022,1
+CUST-1156,Female,0,No,,47.0,Yes,Yes,dsl,Month-to-month,No,Credit card,79.26,3688.6,Mumbai,07-11-2018,No
+CUST-1002, Male,0,NO,No,56.0,no,No,DSL,Month-to-month,Yes,,15.0,795.5,MUMBAI,04-01-2018,No
+CUST-1229,Male,0,NO,No,8.0,Yes,No,dsl,One year,No,Mailed check,85.61,704.72,Mumbai,02-04-2019,No
+CUST-1976,Female,nan,NO,No,61.0,No,Yes,DSL,Two year,Yes,Bank transfer,68.37,3801.14,Delhi,29-04-2023,Yes
+CUST-2080,Male,0,yes,No,29.0,No,No phone service,,Two year,Yes,Mailed check,53.95,1553.75,Hyderabad,23-11-2023,yes
+CUST-2014,Female,0,Yes,Yes,37.0,No,No,DSL,Two year,no,Bank transfer,70.22,2645.36,Bengaluru,14-07-2023,Yes
+CUST-2032,Female,nan,No,Yes,27.0,No,Yes,Fiber optic,Two year,Yes,Electronic check,31.8,835.13,,19-08-2023,Yes
+CUST-1371,Male,0,No,No,,Yes,No phone service,Fiber optic,One year,No,Credit card,81.01,0.0,Bengaluru,10-01-2020,No
+CUST-1180, Male,1,NO,No,72.0,Yes,Yes,DSL,Month-to-month,Yes,Mailed check,109.56,7755.05,Delhi,25-12-2018,NO
+CUST-1700,Male,0,No,Y,67.0,Yes,No,Fiber optic,Month-to-month,No,,63.5,4424.83,Bengaluru,26-10-2021,yes
+CUST-1667,,0,No,Yes,17.0,Yes,,Fiber optic,,No,Credit card,57.7,1079.7,Chennai,22-08-2021,Yes
+CUST-1898,Male,1,Yes,Yes,54.0,No,No,DSL,Two year,Yes,Mailed check,52.34,2857.47,Delhi,25-11-2022,No
+CUST-1571, Male,0,NO,Yes,25.0,Yes,,DSL,,Yes,Electronic check,123.96,3267.02,Bengaluru,11-02-2021,yes
+CUST-1681,Male,0,Yes,No,15.0,yes,No,DSL,Month-to-month,no, Electronic check,25.87,419.61,Bengaluru,19-09-2021,No
+CUST-1783,male,0,yes,No,1.0,No,No,DSL,Month-to-month,Yes,Electronic check,63.94,70.35,bengaluru,10-04-2022,NO
+CUST-1842,Female,1,NO,Yes,32.0,No,No,,Month-to-month,Yes,Credit card,28.64,852.59,Hyderabad,05-08-2022,No
+CUST-1779, Male,0,NO,No,49.0,Yes,No,fiber optic,Two year,no,Electronic check,67.49,3249.88,Chennai,02-04-2022,yes
+CUST-1037,Female,1,No,N,0.0,No,No,DSL,,Yes,Bank transfer,83.33,0.0,Bengaluru,15-03-2018,No
+CUST-1353,male,nan,,Yes,59.0,Yes,No,DSL,Month-to-month,No,Credit card,87.81,5181.49,Bengaluru,05-12-2019,No
+CUST-1941, Male,0,Yes,N,31.0,yes,Yes,No,Two year,Yes,Electronic check,54.62,1701.28,Bengaluru,19-02-2023,yes
+CUST-1236,Female,0,No,Yes,45.0,Yes,No phone service,Fiber optic,,no,Electronic check,46.81,2264.18,Bengaluru,16-04-2019,Yes
+CUST-1993,Male,0,yes,No,16.0,No,,Fiber optic,,Yes, Electronic check,75.61,1213.98,bengaluru,02-06-2023,Yes
+CUST-1499,Female,0,NO,No,33.0,no,Yes,dsl,Month-to-month,YES,Electronic check,107.79,3745.1,Bengaluru,21-09-2020,No
+CUST-1055,FEMALE,0,No,No,10.0,Yes,Yes,Fiber optic,One year,no,Mailed check,95.32,928.98,Mumbai,20-04-2018,0
+CUST-1302,Female,nan,,No,34.0,Yes,,DSL,One year,Yes,Electronic check,67.28,2511.51,Delhi,25-08-2019,No
+CUST-1286,Male,0,NO,No,49.0,yes,,Fiber optic,month-to-month,no,Mailed check,47.63,2187.88,MUMBAI,24-07-2019,No
+CUST-1219,Female,1,,N,23.0,Yes,Yes,DSL,Month-to-month,no,Bank transfer,34.37,781.86,Chennai,13-03-2019,No
+CUST-1387,,0,Yes,,14.0,No,No,Fiber optic,Month-to-month,No,Electronic check,20.79,301.96,Chennai,11-02-2020,No
+CUST-1650,Female,0,No,No,56.0,Yes,Yes,DSL,Month-to-month,YES, Electronic check,65.55,3562.37,Chennai,19-07-2021,No
+CUST-1390,male,0,NO,Yes,9.0,Yes,No phone service,,Two year,Yes,Electronic check,80.81,741.9,Bengaluru,17-02-2020,1
+CUST-1352,male,1,yes,No,22.0,yes,No phone service,DSL,One year,No,Electronic check,58.43,1247.28,MUMBAI,03-12-2019,NO
+CUST-1193,FEMALE,0,Yes,No,34.0,No,Yes,Fiber optic,month-to-month,Yes,Mailed check,101.66,3336.19,Delhi,20-01-2019,No
+CUST-1235,FEMALE,1,,N,21.0,No,No,DSL,Month-to-month,No,Electronic check,78.34,1624.47,Chennai,14-04-2019,No
+CUST-1870,FEMALE,0,Yes,,49.0,No,Yes,No,One year,YES,Bank transfer,78.76,4222.11,Bengaluru,30-09-2022,No
+CUST-1480,Female,1,NO,Yes,39.0,No,No,fiber optic,Two year,Yes,Bank transfer,56.44,2374.42,,14-08-2020,No
+CUST-1116,FEMALE,0,Yes,No,22.0,Yes,No,dsl,One year,No, Electronic check,63.77,1431.9,Delhi,20-08-2018,No
+CUST-1843,Female,0,No,No,20.0,No,,No,Two year,Yes,,68.75,1412.75,Bengaluru,07-08-2022,No
+CUST-2035,male,0,Yes,Yes,48.0,yes,Yes,fiber optic,Month-to-month,Yes,Electronic check,73.6,3352.27,Delhi,25-08-2023,No
+CUST-1674,male,0,Yes,Yes,,Yes,Yes,No,Month-to-month,YES,Electronic check,87.11,0.0,Delhi,05-09-2021,0
+CUST-2029,Female,0,No,,23.0,Yes,No phone service,DSL,,no,Mailed check,78.24,1788.2,Chennai,13-08-2023,NO
+CUST-1120,male,0,Yes,N,53.0,Yes,No,DSL,Month-to-month,No,Mailed check,87.05,5000.8,Mumbai,28-08-2018,0
+CUST-1722,Male,0,Yes,No,62.0,Yes,No,Fiber optic,Two year,YES,Credit card,49.22,2883.53,,09-12-2021,yes
+CUST-1960,Female,nan,,,,Yes,No,DSL,One year,No,Credit card,101.79,0.0,bengaluru,29-03-2023,No
+CUST-1682,Male,0,No,No,1.0,No,No phone service,No,,Yes,Credit card,56.33,56.85,Chennai,21-09-2021,No
+CUST-1062,male,1,No,No,58.0,Yes,,fiber optic,Month-to-month,Yes,Bank transfer,41.01,2489.36,Mumbai,04-05-2018,No
+CUST-1590, Male,0,NO,Yes,27.0,no,No,DSL,month-to-month,No,Electronic check,58.27,1475.05,bengaluru,21-03-2021,yes
+CUST-1453,Male,1,yes,N,62.0,Yes,No phone service,Fiber optic,Two year,no, Electronic check,94.54,6236.07,Hyderabad,21-06-2020,No
+CUST-1515,Male,0,Yes,No,7.0,No,Yes,Fiber optic,Month-to-month,Yes,Electronic check,62.18,401.45,Mumbai,23-10-2020,No
+CUST-1570,Female,0,Yes,No,24.0,Yes,No,DSL,month-to-month,No,Electronic check,67.03,1658.72,MUMBAI,09-02-2021,Yes
+CUST-1223,,0,Yes,No,37.0,Yes,No phone service,DSL,month-to-month,Yes,Credit card,93.27,3463.62,Hyderabad,21-03-2019,Yes
+CUST-1221,Female,0,Yes,N,42.0,no,No phone service,No,Month-to-month,No,Bank transfer,106.66,4406.85,Delhi,17-03-2019,No
+CUST-1703, Male,0,,Yes,38.0,yes,No phone service,No,Month-to-month,No,Mailed check,64.46,2404.78,,01-11-2021,Yes
+CUST-1465,male,0,NO,N,23.0,No,Yes,DSL,One year,No,,71.32,1797.37,Hyderabad,15-07-2020,Yes
+CUST-1052,FEMALE,0,No,Yes,39.0,yes,Yes,Fiber optic,One year,No,Bank transfer,46.55,1728.77,Delhi,14-04-2018,Yes
+CUST-2022,,0,NO,No,15.0,No,No,No,Month-to-month,No, Electronic check,44.47,673.93,MUMBAI,30-07-2023,No
+CUST-1485,Female,nan,yes,,34.0,Yes,No,DSL,,YES, Electronic check,56.7,1839.66,Mumbai,24-08-2020,NO
+CUST-2069,Female,0,Yes,No,46.0,Yes,No phone service,DSL,Month-to-month,YES,Mailed check,76.15,3535.71,Mumbai,01-11-2023,Yes
+CUST-1805,Male,1,NO,Yes,3.0,No,No,,One year,Yes,Mailed check,79.83,237.15,MUMBAI,24-05-2022,Yes
+CUST-1155,male,1,NO,N,17.0,No,Yes,Fiber optic,Month-to-month,no,Credit card,60.31,1070.29,Delhi,05-11-2018,NO
+CUST-2083, Male,0,Yes,No,3.0,Yes,Yes,Fiber optic,Two year,Yes,Bank transfer,83.95,247.79,Mumbai,29-11-2023,No
+CUST-2002,Male,1,,,46.0,no,Yes,No,One year,Yes,Electronic check,54.84,2468.74,Chennai,20-06-2023,No
+CUST-1248,Female,1,No,Yes,29.0,No,No phone service,DSL,Two year,No,Electronic check,70.28,2070.59,bengaluru,10-05-2019,No
+CUST-1441,Male,0,NO,Yes,15.0,yes,Yes,,Month-to-month,No, Electronic check,95.72,1388.67,Hyderabad,28-05-2020,No
+CUST-1869,Male,0,No,No,24.0,yes,No,No,,Yes,Electronic check,36.39,920.5,Chennai,28-09-2022,yes
+CUST-2026,,0,yes,Yes,66.0,Yes,No,No,Month-to-month,Yes,Bank transfer,15.0,1097.18,Mumbai,07-08-2023,0
+CUST-1542,FEMALE,0,Yes,Y,32.0,no,Yes,No,Month-to-month,YES,Bank transfer,17.59,586.96,,16-12-2020,No
+CUST-1117,FEMALE,0,NO,N,3.0,No,Yes,Fiber optic,month-to-month,Yes,Credit card,99.98,312.92,Chennai,22-08-2018,No
+CUST-1626,FEMALE,0,No,No,,Yes,No,No,Two year,Yes,Electronic check,66.77,0.0,Chennai,01-06-2021,yes
+CUST-1807,Male,0,Yes,Y,33.0,Yes,Yes,dsl,Month-to-month,No,Bank transfer,67.32,2264.38,Bengaluru,28-05-2022,Yes
+CUST-1291,Male,1,No,No,20.0,No,No phone service,DSL,Month-to-month,No,Mailed check,83.51,1598.41,Bengaluru,03-08-2019,yes
+CUST-2079,Female,nan,Yes,Yes,13.0,yes,No,,Month-to-month,YES,Mailed check,52.84,692.54,Mumbai,21-11-2023,Yes
+CUST-1381, Male,0,NO,Yes,17.0,No,No phone service,No,Two year,No,Electronic check,58.04,921.95,,30-01-2020,No
+CUST-1718,male,0,Yes,Yes,66.0,No,No phone service,,Month-to-month,No,Electronic check,59.29,4052.15,Bengaluru,01-12-2021,No
+CUST-1200,FEMALE,0,No,No,32.0,Yes,No,Fiber optic,,Yes,Credit card,76.7,2664.92,Chennai,03-02-2019,No
+CUST-1596,FEMALE,0,yes,No,17.0,Yes,No,Fiber optic,Two year,no,Electronic check,71.82,1170.87,Bengaluru,02-04-2021,No
+CUST-1860,FEMALE,0,No,No,13.0,no,No phone service,No,Month-to-month,Yes,Credit card,102.08,1321.11,Delhi,10-09-2022,Yes
+CUST-2066,Female,1,Yes,No,19.0,yes,,No,Month-to-month,YES,Bank transfer,52.87,1022.52,,26-10-2023,No
+CUST-1049,Male,1,No,No,43.0,Yes,Yes,fiber optic,Two year,No,Mailed check,62.82,2805.9,Hyderabad,08-04-2018,Yes
+CUST-1505,FEMALE,0,No,Yes,9.0,No,No,Fiber optic,month-to-month,No,Credit card,102.61,951.99,Bengaluru,03-10-2020,1
+CUST-1921, Male,0,No,Yes,36.0,No,Yes,dsl,One year,Yes,Mailed check,80.02,2880.91,Chennai,10-01-2023,No
+CUST-1404,,1,Yes,Yes,46.0,No,Yes,Fiber optic,One year,Yes,Mailed check,47.13,2346.43,Mumbai,16-03-2020,No
+CUST-1340,Male,0,No,No,36.0,No,Yes,fiber optic,Month-to-month,Yes,Credit card,70.04,2455.8,Mumbai,09-11-2019,NO
+CUST-1154,Male,0,No,,65.0,No,No,Fiber optic,Two year,no,Credit card,57.53,3842.44,Delhi,03-11-2018,No
+CUST-2033, Male,nan,Yes,No,54.0,no,No,fiber optic,Month-to-month,No,Bank transfer,57.38,3188.0,Mumbai,21-08-2023,Yes
+CUST-1671,male,0,No,Yes,54.0,No,No phone service,DSL,Two year,Yes, Electronic check,56.56,3136.54,,30-08-2021,No
+CUST-2039,Male,1,No,N,29.0,yes,,DSL,One year,No,Credit card,75.83,2225.13,Bengaluru,02-09-2023,No
+CUST-1946,FEMALE,1,yes,N,17.0,Yes,Yes,fiber optic,One year,No,Credit card,40.99,667.49,,01-03-2023,1
+CUST-1322,Female,0,No,No,72.0,Yes,No,No,Month-to-month,YES,Electronic check,76.88,5502.0,,04-10-2019,No
+CUST-1725,Male,0,No,,67.0,No,Yes,DSL,Two year,Yes,Credit card,75.25,5475.47,,15-12-2021,No
+CUST-1705,male,0,yes,Yes,26.0,Yes,No,,Month-to-month,Yes,Electronic check,94.87,2464.52,Mumbai,05-11-2021,0
+CUST-1082,FEMALE,0,No,,20.0,Yes,No,,Month-to-month,No,Mailed check,36.17,705.81,Bengaluru,13-06-2018,NO
+CUST-1702,Male,0,Yes,N,18.0,No,No phone service,No,Month-to-month,Yes,Electronic check,71.57,1297.68,bengaluru,30-10-2021,No
+CUST-1464,male,0,No,Yes,45.0,Yes,No phone service,fiber optic,Two year,Yes,Mailed check,83.14,4006.32,Bengaluru,13-07-2020,0
+CUST-1942,Male,0,,No,38.0,yes,No,No,Two year,Yes,Electronic check,79.95,3155.01,Chennai,21-02-2023,No
+CUST-2094,male,0,No,No,34.0,Yes,Yes,Fiber optic,One year,no,Bank transfer,36.16,1281.95,MUMBAI,21-12-2023,NO
+CUST-1333, Male,0,Yes,No,55.0,Yes,No,DSL,Two year,Yes,Mailed check,79.58,4127.47,Bengaluru,26-10-2019,No
+CUST-1010,Female,0,,,,Yes,Yes,DSL,Two year,No,Mailed check,67.3,0.0,Bengaluru,20-01-2018,No
+CUST-1470,Female,1,yes,,70.0,Yes,No phone service,fiber optic,Month-to-month,No,,79.42,5406.45,Mumbai,25-07-2020,Yes
+CUST-1032,Female,0,Yes,Yes,69.0,No,No phone service,DSL,Month-to-month,No,Bank transfer,56.96,3707.56,Chennai,05-03-2018,No
+CUST-1691, Male,0,,No,2.0,No,No,fiber optic,,Yes,Credit card,97.19,206.94,Chennai,08-10-2021,No
+CUST-1413, Male,0,NO,N,62.0,Yes,No,No,Month-to-month,No,Electronic check,58.35,3618.27,Bengaluru,02-04-2020,Yes
+CUST-1580,Female,0,Yes,Y,0.0,No,No phone service,No,Month-to-month,Yes, Electronic check,95.9,0.0,Hyderabad,01-03-2021,No
+CUST-1382,FEMALE,0,Yes,No,63.0,yes,,,One year,No,Credit card,48.3,2953.32,Delhi,01-02-2020,No
+CUST-1729,Female,0,yes,,32.0,Yes,Yes,,month-to-month,No,Electronic check,78.87,2526.22,Hyderabad,23-12-2021,1
+CUST-1669,Female,1,Yes,Yes,66.0,Yes,Yes,fiber optic,Month-to-month,Yes,Electronic check,28.8,1935.4,Hyderabad,26-08-2021,No
+CUST-2062,Male,1,Yes,Y,63.0,Yes,No phone service,Fiber optic,Two year,Yes,Electronic check,59.27,3565.76,Hyderabad,18-10-2023,No
+CUST-1740,Male,0,,No,3.0,No,Yes,DSL,Two year,Yes,Mailed check,52.12,157.02,bengaluru,14-01-2022,NO
+CUST-1975,male,0,Yes,Yes,50.0,Yes,Yes,Fiber optic,Month-to-month,No,Mailed check,64.64,3071.52,Bengaluru,27-04-2023,Yes
+CUST-1378,Female,0,Yes,No,13.0,yes,No,Fiber optic,Month-to-month,No,Bank transfer,83.73,1051.77,Chennai,24-01-2020,NO
+CUST-1089,Female,0,Yes,No,8.0,Yes,,fiber optic,One year,no,Credit card,35.28,261.93,Chennai,27-06-2018,NO
+CUST-1601,FEMALE,nan,No,N,71.0,Yes,No phone service,dsl,One year,YES,Bank transfer,65.3,4364.78,Hyderabad,12-04-2021,No
+CUST-1213,FEMALE,0,No,,30.0,No,,fiber optic,Month-to-month,No, Electronic check,49.32,1463.08,Bengaluru,01-03-2019,No
+CUST-2017, Male,0,Yes,N,49.0,Yes,Yes,No,One year,No,Bank transfer,27.14,1357.38,Mumbai,20-07-2023,yes
+CUST-1133,Female,0,Yes,Yes,12.0,No,No,Fiber optic,Month-to-month,Yes,Credit card,40.83,492.52,Chennai,23-09-2018,No
+CUST-1346,,nan,,No,,Yes,Yes,Fiber optic,Month-to-month,no,Mailed check,27.23,0.0,Chennai,21-11-2019,yes
+CUST-1757, Male,0,Yes,,20.0,yes,No,Fiber optic,Two year,Yes,Bank transfer,128.74,2504.44,Bengaluru,17-02-2022,No
+CUST-1007,FEMALE,1,No,Yes,19.0,Yes,No,Fiber optic,Month-to-month,Yes,Mailed check,84.66,1594.26,MUMBAI,14-01-2018,No
+CUST-1744,Female,0,Yes,No,47.0,Yes,No,Fiber optic,Month-to-month,YES,Electronic check,98.28,4595.44,Mumbai,22-01-2022,yes
+CUST-1320, Male,0,Yes,No,47.0,no,,,Month-to-month,YES,Mailed check,85.04,3930.6,Mumbai,30-09-2019,1
+CUST-1948, Male,0,NO,Yes,51.0,Yes,Yes,DSL,Month-to-month,Yes,Bank transfer,56.92,3035.3,Mumbai,05-03-2023,NO
+CUST-1187,Male,0,Yes,Y,7.0,Yes,Yes,dsl,Month-to-month,No,Credit card,63.91,431.52,,08-01-2019,NO
+CUST-1856,FEMALE,0,yes,,61.0,Yes,No,dsl,Month-to-month,Yes,Mailed check,35.52,2107.8,MUMBAI,02-09-2022,NO
+CUST-1552,Male,0,NO,No,2.0,Yes,No phone service,DSL,Month-to-month,YES,Bank transfer,77.93,158.74,Chennai,04-01-2021,NO
+CUST-1304, Male,0,Yes,,17.0,Yes,Yes,,One year,No,,28.06,476.6,Bengaluru,29-08-2019,No
+CUST-1031,,0,yes,No,56.0,No,Yes,No,month-to-month,No,Bank transfer,59.08,3146.87,Hyderabad,03-03-2018,yes
+CUST-1737,Female,1,Yes,N,15.0,yes,Yes,No,One year,Yes,Bank transfer,66.77,1030.22,,08-01-2022,NO
+CUST-1240,FEMALE,0,,N,53.0,Yes,No phone service,,month-to-month,Yes,Credit card,65.52,3422.74,Mumbai,24-04-2019,NO
+CUST-1996,male,0,No,No,45.0,yes,No phone service,Fiber optic,One year,Yes,Electronic check,41.96,1887.94,MUMBAI,08-06-2023,No
+CUST-1174,Male,0,No,No,13.0,no,No phone service,Fiber optic,,No,Electronic check,69.83,897.91,MUMBAI,13-12-2018,NO
+CUST-1245, Male,0,No,No,56.0,no,,No,Month-to-month,no,Electronic check,31.96,1767.47,MUMBAI,04-05-2019,No
+CUST-1056,Female,0,,No,10.0,Yes,Yes,No,Two year,No,Electronic check,54.92,561.28,Hyderabad,22-04-2018,yes
+CUST-1630, Male,nan,Yes,No,4.0,Yes,No phone service,Fiber optic,One year,No,Electronic check,46.85,181.91,bengaluru,09-06-2021,No
+CUST-1583,Female,0,No,No,17.0,yes,No phone service,No,Two year,No,Mailed check,67.85,1161.19,Delhi,07-03-2021,No
+CUST-1165,Female,1,yes,N,57.0,Yes,Yes,DSL,Month-to-month,Yes,Mailed check,42.83, ,Delhi,25-11-2018,yes
+CUST-1145,Male,0,Yes,No,47.0,Yes,No,dsl,Month-to-month,No,Mailed check,21.63,1002.85,Hyderabad,16-10-2018,No
+CUST-1090,Male,1,,Yes,66.0,No,No phone service,Fiber optic,Two year,No,Credit card,94.62,6180.42,Hyderabad,29-06-2018,0
+CUST-1392,male,0,yes,Yes,63.0,Yes,Yes,DSL,Two year,No,Mailed check,62.6,3993.91,Bengaluru,21-02-2020,Yes
+CUST-1310,Female,1,No,Y,11.0,no,No phone service,Fiber optic,Two year,No,Electronic check,32.62,378.27,bengaluru,10-09-2019,No
+CUST-1359,male,1,Yes,Yes,5.0,Yes,Yes,Fiber optic,Month-to-month,YES, Electronic check,69.12,339.29,Bengaluru,17-12-2019,0
+CUST-1093,Female,nan,No,Yes,27.0,No,No,No,One year,No,Electronic check,74.86,2075.99,Hyderabad,05-07-2018,No
+CUST-1834,FEMALE,0,,No,52.0,No,No phone service,DSL,Two year,YES,Mailed check,61.44,3403.16,Bengaluru,20-07-2022,No
+CUST-1903,Female,0,NO,No,53.0,Yes,Yes,DSL,Two year,Yes,Mailed check,94.89, ,Bengaluru,05-12-2022,No
+CUST-1376, Male,1,yes,No,5.0,Yes,No phone service,DSL,,No,Mailed check,44.51,239.0,Mumbai,20-01-2020,Yes
+CUST-1243,Female,0,No,Yes,30.0,Yes,Yes,,Month-to-month,No, Electronic check,88.89,2531.8,Hyderabad,30-04-2019,No
+CUST-1995,Female,0,No,No,36.0,No,No phone service,fiber optic,,No,Bank transfer,46.23,1623.66,Bengaluru,06-06-2023,No
+CUST-1087,Female,nan,NO,,66.0,No,No,DSL,One year,Yes,Mailed check,62.86,4258.35,Hyderabad,23-06-2018,yes
+CUST-1214,FEMALE,0,No,,62.0,Yes,Yes,Fiber optic,Month-to-month,No,Credit card,102.33,5724.2,Chennai,03-03-2019,No
+CUST-1444,Male,0,Yes,Yes,54.0,Yes,Yes,Fiber optic,Month-to-month,YES,Electronic check,49.72,2678.2,Delhi,03-06-2020,No
+CUST-1173, Male,0,Yes,No,56.0,Yes,Yes,No,One year,No,Mailed check,75.47,4053.88,Mumbai,11-12-2018,No
+CUST-1425,FEMALE,0,No,N,49.0,No,Yes,fiber optic,Month-to-month,Yes,Bank transfer,74.81,3879.25,Bengaluru,26-04-2020,No
+CUST-1930,Female,0,No,,66.0,No,No,No,,Yes,Credit card,47.49,2908.81,MUMBAI,28-01-2023,No
+CUST-1118,Female,0,No,Yes,51.0,yes,Yes,Fiber optic,,No,Mailed check,79.21,4034.99,Mumbai,24-08-2018,NO
+CUST-1119,male,0,,N,60.0,No,No,Fiber optic,month-to-month,No,Electronic check,61.43,3143.27,MUMBAI,26-08-2018,No
+CUST-1800,FEMALE,0,NO,No,41.0,yes,No,,Month-to-month,No,,85.23,3722.37,Delhi,14-05-2022,Yes
+CUST-1767,Male,0,Yes,Y,42.0,No,No,DSL,Two year,Yes,Electronic check,58.47,2599.56,Chennai,09-03-2022,Yes
+CUST-1000,FEMALE,0,Yes,,49.0,No,No,DSL,One year,YES,Electronic check,55.98,2767.71,Chennai,01-01-2018,Yes
+CUST-1394,Male,1,Yes,N,15.0,Yes,No phone service,DSL,Month-to-month,Yes,Electronic check,130.13,1898.18,bengaluru,25-02-2020,No
+CUST-1401, Male,nan,yes,Yes,45.0,Yes,No,,Month-to-month,Yes, Electronic check,72.8,3404.52,Hyderabad,10-03-2020,No
+CUST-1404,,1,Yes,Yes,46.0,No,Yes,Fiber optic,One year,Yes,Mailed check,47.13,2346.43,Mumbai,16-03-2020,No
+CUST-1742, Male,0,NO,Yes,18.0,no,No,DSL,Month-to-month,Yes,Credit card,80.46,1429.4,Chennai,18-01-2022,No
+CUST-1751,Female,nan,NO,Y,5.0,No,No,DSL,One year,No,Credit card,125.03,593.58,Mumbai,05-02-2022,Yes
+CUST-1162,Male,0,No,Yes,64.0,yes,No,DSL,Month-to-month,No,Electronic check,90.51,5614.43,Hyderabad,19-11-2018,No
+CUST-1114,Male,0,No,No,49.0,No,No,Fiber optic,One year,No,Credit card,53.46,2685.44,bengaluru,16-08-2018,0
+CUST-1997,Male,0,Yes,No,64.0,Yes,Yes,DSL,Month-to-month,YES,Credit card,65.45,3914.01,Chennai,10-06-2023,No
+CUST-1150,FEMALE,0,Yes,Y,8.0,Yes,No,No,One year,YES,,34.21,270.21,Bengaluru,26-10-2018,yes
+CUST-2084,,0,Yes,N,17.0,no,No,Fiber optic,month-to-month,Yes,Credit card,19.58,312.27,,01-12-2023,NO
+CUST-1982,FEMALE,0,No,No,72.0,No,No,DSL,,No,Credit card,68.73,4786.28,Bengaluru,11-05-2023,Yes
+CUST-1902,Male,nan,,Yes,27.0,yes,Yes,Fiber optic,Two year,No,Electronic check,67.4,1880.98,Delhi,03-12-2022,Yes
+CUST-1368,Female,0,yes,No,49.0,no,No,No,Month-to-month,No, Electronic check,49.23,2469.1,Bengaluru,04-01-2020,yes
+CUST-1543,,0,NO,No,22.0,yes,No,DSL,,No,,75.97,1717.02,bengaluru,18-12-2020,No
+CUST-1477,male,1,NO,Yes,12.0,No,,,Two year,no,Credit card,86.75,1018.02,,08-08-2020,No
+CUST-2057,Male,0,No,No,52.0,no,Yes,Fiber optic,Month-to-month,No, Electronic check,90.39,4837.97,MUMBAI,08-10-2023,yes
+CUST-1532,Female,0,No,No,46.0,Yes,Yes,fiber optic,Two year,Yes,Electronic check,98.58,4791.29,MUMBAI,26-11-2020,No
+CUST-1625,Female,0,yes,No,44.0,No,No phone service,No,One year,No,Bank transfer,62.28, ,Hyderabad,30-05-2021,Yes
+CUST-1852, Male,0,yes,No,61.0,No,Yes,DSL,Month-to-month,Yes,Bank transfer,89.88,5339.21,Delhi,25-08-2022,No
+CUST-1512,Male,0,Yes,No,29.0,Yes,Yes,DSL,Month-to-month,No,Bank transfer,78.27,2334.82,Mumbai,17-10-2020,No
+CUST-2041,male,1,No,Yes,28.0,Yes,No,DSL,Month-to-month,YES,Credit card,55.37,1604.9,,06-09-2023,No
+CUST-1072, Male,0,NO,N,58.0,No,Yes,No,month-to-month,No,Credit card,68.96,3910.12,Hyderabad,24-05-2018,NO
+CUST-1258,Male,0,Yes,No,72.0,No,Yes,DSL,Month-to-month,YES,Credit card,80.86,5943.06,bengaluru,30-05-2019,No
+CUST-1624,,0,,Yes,19.0,Yes,Yes,DSL,Month-to-month,No,Mailed check,117.71,2224.02,Bengaluru,28-05-2021,No
+CUST-2023,Female,0,yes,Yes,33.0,yes,Yes,,Two year,Yes,Mailed check,25.95,874.87,Chennai,01-08-2023,NO
+CUST-1135,Male,0,yes,No,48.0,Yes,Yes,DSL,month-to-month,No,Mailed check,37.07,1720.68,Mumbai,27-09-2018,No
+CUST-1616,FEMALE,0,Yes,No,,yes,,Fiber optic,Two year,Yes,Credit card,37.42,0.0,Bengaluru,12-05-2021,yes
+CUST-1516,Female,0,No,No,72.0,Yes,Yes,Fiber optic,Month-to-month,No, Electronic check,55.79,4028.51,Bengaluru,25-10-2020,No
+CUST-1975,male,0,Yes,Yes,50.0,Yes,Yes,Fiber optic,Month-to-month,No,Mailed check,64.64,3071.52,Bengaluru,27-04-2023,Yes
+CUST-1592,Female,0,yes,No,30.0,yes,Yes,DSL,Month-to-month,Yes,Electronic check,20.42,613.82,Hyderabad,25-03-2021,No
+CUST-1957,Female,0,Yes,No,28.0,yes,Yes,Fiber optic,Month-to-month,no,Electronic check,70.92,1768.04,MUMBAI,23-03-2023,No
+CUST-1501, Male,0,No,Yes,61.0,Yes,,No,Two year,YES,,76.96,4585.52,Bengaluru,25-09-2020,yes
+CUST-1538,Male,0,yes,N,50.0,Yes,Yes,dsl,month-to-month,Yes,Electronic check,92.61,4701.28,Delhi,08-12-2020,NO
+CUST-1792,Female,0,No,N,72.0,No,No,,Month-to-month,Yes,Mailed check,100.84,7645.65,Mumbai,28-04-2022,0
+CUST-1581,Female,1,Yes,,34.0,Yes,No,Fiber optic,One year,No,Mailed check,42.49,1518.03,Mumbai,03-03-2021,No
+CUST-1343,male,0,Yes,Yes,63.0,Yes,Yes,DSL,month-to-month,no,Mailed check,44.55,3111.55,Hyderabad,15-11-2019,0
+CUST-1816, Male,0,,No,33.0,No,No,DSL,One year,No,,60.93,1975.86,Bengaluru,15-06-2022,NO
+CUST-1750,Male,0,Yes,,57.0,No,Yes,DSL,,No,Mailed check,48.99,3068.02,Chennai,03-02-2022,NO
+CUST-1293,Male,0,,Yes,71.0,No,No,,Month-to-month,No,Bank transfer,56.69, ,Bengaluru,07-08-2019,NO
+CUST-1364,male,0,yes,Yes,69.0,no,Yes,dsl,Month-to-month,no,Mailed check,29.41,2045.43,Chennai,27-12-2019,yes
+CUST-1756,Female,0,Yes,No,,No,No phone service,No,Month-to-month,Yes,Bank transfer,86.95,0.0,Hyderabad,15-02-2022,No
+CUST-1659,Female,nan,No,No,29.0,Yes,Yes,DSL,Two year,No,Credit card,86.11,2735.07,MUMBAI,06-08-2021,NO
+CUST-1014,Female,nan,,No,34.0,Yes,No,Fiber optic,Two year,No,Mailed check,89.92,2970.6,Hyderabad,28-01-2018,yes
+CUST-1686,Female,0,Yes,Yes,26.0,Yes,No,DSL,month-to-month,Yes,Credit card,70.1,1743.4,Chennai,29-09-2021,No
+CUST-1086,FEMALE,1,NO,No,49.0,No,No,DSL,Month-to-month,Yes,Mailed check,77.94,4146.62,Hyderabad,21-06-2018,1
+CUST-1370,FEMALE,nan,Yes,No,39.0,No,No,Fiber optic,Month-to-month,No,Bank transfer,117.64,4687.75,Mumbai,08-01-2020,Yes
+CUST-1165,Female,1,yes,N,57.0,Yes,Yes,DSL,Month-to-month,Yes,Mailed check,42.83, ,Delhi,25-11-2018,yes
+CUST-1131, Male,0,No,No,11.0,No,No,,month-to-month,Yes,Credit card,49.07,570.07,,19-09-2018,No
+CUST-1335,male,nan,No,Yes,2.0,No,No,Fiber optic,Two year,no,Electronic check,47.44,95.1,,30-10-2019,No
+CUST-1059,Male,0,No,Y,2.0,no,No,,One year,Yes, Electronic check,90.61,184.06,bengaluru,28-04-2018,0
+CUST-1709,Female,0,No,No,67.0,Yes,No,No,,No,Bank transfer,144.05,9692.78,Chennai,13-11-2021,No
+CUST-1676, Male,0,Yes,Yes,25.0,No,,DSL,Two year,YES,Electronic check,53.19,1341.39,Bengaluru,09-09-2021,yes
+CUST-1354,Female,0,Yes,No,66.0,Yes,No,,Month-to-month,No,Credit card,115.7,7894.3,Delhi,07-12-2019,yes
+CUST-1424,male,0,No,N,5.0,Yes,No phone service,fiber optic,Two year,Yes,Credit card,69.03,350.81,Chennai,24-04-2020,No
+CUST-1292, Male,0,Yes,N,51.0,Yes,Yes,Fiber optic,Two year,No,Credit card,28.78,1401.84,MUMBAI,05-08-2019,yes
+CUST-1041,FEMALE,0,Yes,N,22.0,Yes,Yes,Fiber optic,One year,No,Bank transfer,15.0,328.47,Bengaluru,23-03-2018,1
+CUST-1329,Female,1,yes,Yes,11.0,Yes,Yes,Fiber optic,Two year,No,Electronic check,30.96,334.98,Chennai,18-10-2019,NO
+CUST-1614,Female,0,Yes,No,36.0,No,Yes,DSL,Month-to-month,No, Electronic check,49.1,1744.98,Chennai,08-05-2021,Yes
+CUST-1429,FEMALE,0,Yes,N,23.0,No,No,fiber optic,Month-to-month,Yes,,19.49,459.65,Chennai,04-05-2020,NO
+CUST-1079,FEMALE,0,yes,,22.0,No,No,DSL,,Yes,Mailed check,51.27,1160.67,Chennai,07-06-2018,Yes
+CUST-1693,Female,0,yes,No,32.0,Yes,No phone service,,Two year,No,Bank transfer,73.25,2098.3,Hyderabad,12-10-2021,NO
+CUST-1028,Male,0,Yes,No,45.0,Yes,No,fiber optic,Month-to-month,YES, Electronic check,39.7,1770.35,Bengaluru,25-02-2018,NO
+CUST-1707,FEMALE,1,Yes,Yes,35.0,yes,No,DSL,Month-to-month,No,Bank transfer,89.09,3214.07,Bengaluru,09-11-2021,No
+CUST-1254,Male,1,yes,No,,Yes,No phone service,dsl,Month-to-month,No,,112.10999999999999,0.0,Bengaluru,22-05-2019,No
+CUST-2049,Male,0,No,N,34.0,yes,No,DSL,month-to-month,no,Electronic check,56.16,1944.17,Mumbai,22-09-2023,No
+CUST-1458,FEMALE,0,Yes,,13.0,no,Yes,No,One year,Yes,,79.82,986.89,Chennai,01-07-2020,NO
+CUST-1383,Female,0,Yes,No,36.0,Yes,No phone service,,month-to-month,Yes,,110.38,4237.17,Delhi,03-02-2020,No
+CUST-1313,Female,nan,Yes,N,56.0,Yes,No phone service,DSL,One year,Yes, Electronic check,55.02,2968.6,Hyderabad,16-09-2019,NO
+CUST-1084,Male,0,Yes,Yes,11.0,Yes,,dsl,One year,No,Bank transfer,61.79,670.61,bengaluru,17-06-2018,1
+CUST-1574, Male,0,NO,,20.0,no,No,Fiber optic,Month-to-month,No,Mailed check,96.0,1900.53,Chennai,17-02-2021,No
+CUST-1136,,0,NO,No,72.0,Yes,No,Fiber optic,Two year,Yes, Electronic check,99.01,6976.97,bengaluru,29-09-2018,No
+CUST-1111,Male,1,Yes,Yes,24.0,No,Yes,DSL,Two year,Yes,Mailed check,84.46,2070.49,bengaluru,10-08-2018,NO
+CUST-1194,Male,0,No,Yes,1.0,No,No phone service,Fiber optic,Month-to-month,No,Bank transfer,50.32,50.81,bengaluru,22-01-2019,Yes
+CUST-1178, Male,1,Yes,,55.0,No,No,DSL,Two year,No,Electronic check,63.23,3574.28,Bengaluru,21-12-2018,yes
+CUST-1555,Male,1,NO,Yes,9.0,No,No phone service,Fiber optic,Month-to-month,Yes,Mailed check,121.49,1034.13,MUMBAI,10-01-2021,Yes
+CUST-1723,,0,yes,,36.0,No,No phone service,Fiber optic,Month-to-month,Yes,Electronic check,81.02,3246.51,Mumbai,11-12-2021,No
+CUST-1496,Female,0,NO,No,54.0,Yes,No phone service,Fiber optic,,No,Electronic check,70.43,3678.31,bengaluru,15-09-2020,Yes
+CUST-1129,male,0,No,N,12.0,no,Yes,DSL,month-to-month,no,Mailed check,44.68,590.59,Hyderabad,15-09-2018,No
+CUST-1715,Male,0,Yes,No,72.0,Yes,No,No,Month-to-month,YES,Electronic check,83.91,6191.63,MUMBAI,25-11-2021,No
+CUST-1337,FEMALE,0,No,Yes,40.0,Yes,No phone service,DSL,Two year,Yes,Mailed check,72.37,2788.8,Mumbai,03-11-2019,1
+CUST-1154,Male,0,No,,65.0,No,No,Fiber optic,Two year,no,Credit card,57.53,3842.44,Delhi,03-11-2018,No
+CUST-1608,FEMALE,1,Yes,No,18.0,No,No,No,Month-to-month,Yes,Electronic check,61.06,1134.99,Mumbai,26-04-2021,Yes
+CUST-1124,Male,0,Yes,Yes,26.0,Yes,Yes,Fiber optic,Two year,No,Electronic check,37.49,958.34,Bengaluru,05-09-2018,NO
+CUST-1195,Male,1,,N,36.0,Yes,Yes,Fiber optic,Month-to-month,Yes,Credit card,70.28,2485.26,Bengaluru,24-01-2019,Yes
+CUST-1226,Male,1,Yes,Yes,71.0,no,,DSL,One year,No,Bank transfer,80.59,5707.39,Bengaluru,27-03-2019,No
+CUST-1689,Female,0,Yes,,5.0,no,No,DSL,Month-to-month,No,Bank transfer,92.03,424.62,Mumbai,04-10-2021,NO
+CUST-1268,Male,0,No,N,36.0,No,Yes,,Two year,YES,Bank transfer,16.37,559.78,Mumbai,19-06-2019,NO
+CUST-1152,Male,0,Yes,Yes,26.0,Yes,No phone service,DSL,,No,Bank transfer,52.04, ,Bengaluru,30-10-2018,No
+CUST-1584, Male,0,Yes,,31.0,Yes,No,DSL,One year,No,,130.13,4177.91,MUMBAI,09-03-2021,No
+CUST-1103,,0,No,,71.0,Yes,No,DSL,One year,no,Bank transfer,41.31,2970.49,Hyderabad,25-07-2018,No
+CUST-1593,male,0,,No,29.0,No,No,No,One year,Yes,Credit card,62.96,1759.13,Mumbai,27-03-2021,No
+CUST-2027,Female,0,Yes,Y,68.0,No,No,No,One year,No,Electronic check,90.43,5918.93,,09-08-2023,No
+CUST-1977,Female,0,No,N,28.0,Yes,Yes,DSL,month-to-month,No,Mailed check,16.94,435.23,bengaluru,01-05-2023,No
+CUST-1794,Male,0,No,Yes,32.0,no,Yes,Fiber optic,One year,YES,Electronic check,77.63,2472.05,MUMBAI,02-05-2022,No
+CUST-1227,Female,0,yes,Yes,8.0,no,Yes,No,,Yes,Electronic check,74.21,559.86,Mumbai,29-03-2019,No
+CUST-2048, Male,0,NO,No,48.0,no,No,dsl,Two year,Yes,Electronic check,28.97,1373.7,MUMBAI,20-09-2023,No
+CUST-1301,Male,0,yes,Yes,5.0,No,Yes,DSL,One year,YES,Electronic check,66.87,365.59,Bengaluru,23-08-2019,No
+CUST-1275,Female,0,Yes,No,63.0,No,No,No,Month-to-month,YES,Credit card,41.27,2551.83,Mumbai,02-07-2019,yes
+CUST-1126,Female,0,Yes,Yes,15.0,No,No,Fiber optic,Two year,Yes, Electronic check,29.83,430.96,Mumbai,09-09-2018,yes
+CUST-1405, Male,0,Yes,Yes,72.0,Yes,No,,Month-to-month,Yes,Electronic check,37.39,2766.37,Mumbai,18-03-2020,No
+CUST-1775, Male,0,NO,No,54.0,no,,DSL,,No, Electronic check,51.91,2668.41,Delhi,25-03-2022,NO
+CUST-1985, Male,0,Yes,Yes,32.0,Yes,Yes,No,Two year,Yes,Mailed check,109.95,3663.12,MUMBAI,17-05-2023,Yes
+CUST-1765,Male,1,No,N,66.0,Yes,No,No,One year,YES,Credit card,29.94,2065.16,,05-03-2022,No
+CUST-1683,Female,0,No,Yes,16.0,yes,No,No,One year,Yes,Credit card,66.69,1018.51,Hyderabad,23-09-2021,Yes
+CUST-1749, Male,0,NO,Y,0.0,no,Yes,Fiber optic,Month-to-month,Yes,Bank transfer,49.45,0.0,MUMBAI,01-02-2022,No
+CUST-2051,Male,0,No,Yes,24.0,Yes,Yes,Fiber optic,One year,no,Electronic check,85.85,1972.96,Mumbai,26-09-2023,No
+CUST-1036,Male,0,Yes,No,21.0,yes,No,Fiber optic,Month-to-month,No,Electronic check,32.67,673.62,Mumbai,13-03-2018,No
+CUST-1139,Male,0,Yes,No,17.0,Yes,Yes,Fiber optic,One year,No,Credit card,104.58,1783.85,Bengaluru,04-10-2018,No
+CUST-1303,Female,0,NO,Yes,49.0,No,Yes,DSL,Two year,Yes,Electronic check,62.43,3053.57,Bengaluru,27-08-2019,yes
+CUST-1267,Male,0,No,No,35.0,yes,No,No,Two year,No,Electronic check,82.9,2886.63,Hyderabad,17-06-2019,0
+CUST-1533,male,0,No,No,59.0,No,Yes,Fiber optic,month-to-month,YES,Credit card,45.97,2687.97,Mumbai,28-11-2020,Yes
+CUST-1545,Female,0,NO,No,2.0,yes,Yes,Fiber optic,One year,No,Electronic check,90.0,165.54,Mumbai,22-12-2020,No
+CUST-1212,Male,0,No,,57.0,No,Yes,,One year,No, Electronic check,75.64,4118.91,Mumbai,27-02-2019,No
+CUST-1468,Male,0,No,Y,51.0,no,Yes,DSL,Month-to-month,Yes,,16.66,824.18,,21-07-2020,Yes
+CUST-1198,Male,0,Yes,No,6.0,Yes,No phone service,DSL,Two year,YES,Credit card,40.21,264.51,MUMBAI,30-01-2019,yes
+CUST-1672,,0,Yes,No,55.0,Yes,No,dsl,Month-to-month,No,Electronic check,60.93,3274.06,MUMBAI,01-09-2021,No
+CUST-1527,,0,Yes,No,6.0,Yes,Yes,DSL,,Yes,Mailed check,52.98,311.22,Bengaluru,16-11-2020,No
+CUST-1675,Female,0,Yes,Yes,3.0,Yes,No,DSL,Month-to-month,No,Credit card,53.31,159.61,Delhi,07-09-2021,yes
+CUST-1951,Male,0,No,Yes,40.0,Yes,No phone service,DSL,Two year,no,Electronic check,67.77,2451.03,Bengaluru,11-03-2023,No
+CUST-1241,FEMALE,1,Yes,No,6.0,Yes,No,DSL,Two year,Yes,Bank transfer,47.92,319.65,bengaluru,26-04-2019,No
+CUST-1342,FEMALE,0,No,N,6.0,Yes,No,Fiber optic,One year,No,Bank transfer,36.07,221.37,Delhi,13-11-2019,yes
+CUST-1549,Female,1,Yes,No,48.0,No,Yes,Fiber optic,Month-to-month,Yes, Electronic check,56.81,2411.21,Delhi,30-12-2020,yes
+CUST-1386,FEMALE,nan,No,No,2.0,Yes,,DSL,,No,Credit card,79.68,156.85,Bengaluru,09-02-2020,yes
+CUST-1367,male,0,Yes,Yes,71.0,No,Yes,DSL,Month-to-month,Yes,Credit card,48.71,3322.3,bengaluru,02-01-2020,Yes
+CUST-1206,Male,0,No,No,57.0,Yes,,DSL,One year,no,Electronic check,95.38,5599.78,Delhi,15-02-2019,No
+CUST-1295, Male,0,No,,18.0,Yes,No phone service,,Month-to-month,Yes,Bank transfer,37.54,659.32,Bengaluru,11-08-2019,1
+CUST-1695,Female,0,Yes,Yes,45.0,Yes,No,DSL,One year,Yes,Electronic check,15.0,631.79,MUMBAI,16-10-2021,No
+CUST-1925,Male,1,Yes,N,19.0,Yes,,DSL,Month-to-month,No,Electronic check,41.03,695.84,Bengaluru,18-01-2023,No
+CUST-1073,Male,0,NO,Yes,60.0,Yes,,DSL,Month-to-month,no, Electronic check,26.19,1543.29,Bengaluru,26-05-2018,No
+CUST-1896,Male,0,Yes,Yes,31.0,No,Yes,DSL,One year,No,Mailed check,42.95,1310.69,Delhi,21-11-2022,No
+CUST-1104,FEMALE,0,No,N,44.0,Yes,No phone service,Fiber optic,Two year,Yes,Electronic check,107.82,4852.61,Bengaluru,27-07-2018,No
+CUST-1830,male,0,NO,Y,2.0,Yes,No,fiber optic,Month-to-month,No,Mailed check,69.99,142.45,Delhi,12-07-2022,yes
+CUST-1854,Male,nan,yes,No,71.0,Yes,No phone service,DSL,One year,Yes,Bank transfer,64.82,4848.14,Bengaluru,29-08-2022,Yes
+CUST-1803,male,0,yes,No,15.0,No,No,dsl,One year,Yes,Electronic check,71.06,1119.59,Hyderabad,20-05-2022,NO
+CUST-1016,Female,0,Yes,Y,27.0,No,No phone service,DSL,Month-to-month,No,Electronic check,58.99,1480.52,Bengaluru,01-02-2018,No
+CUST-1439,male,1,Yes,No,37.0,No,,DSL,,Yes,Electronic check,31.5,1075.22,bengaluru,24-05-2020,No
+CUST-1091,male,1,yes,Y,33.0,Yes,No,No,month-to-month,YES,Mailed check,67.35,2312.76,Hyderabad,01-07-2018,No
+CUST-1088,Male,0,Yes,No,40.0,no,No,No,Two year,Yes,Credit card,18.57,710.68,Chennai,25-06-2018,1
+CUST-1450,Male,0,,Yes,46.0,yes,Yes,Fiber optic,One year,Yes,Credit card,43.02,1865.26,Mumbai,15-06-2020,0
+CUST-1717,Male,0,NO,No,4.0,No,No,No,Month-to-month,YES,Electronic check,109.5,477.22,Delhi,29-11-2021,No
+CUST-1102,Male,1,No,No,41.0,no,No,No,One year,no,Electronic check,80.51,3261.12,Hyderabad,23-07-2018,No
+CUST-1238,Male,1,No,Yes,71.0,No,No,fiber optic,Month-to-month,YES,,97.14,6801.98,bengaluru,20-04-2019,1
+CUST-1868,Male,0,yes,No,12.0,Yes,No phone service,,One year,No,Mailed check,73.39,864.64,,26-09-2022,Yes
+CUST-1246,male,1,Yes,No,67.0,Yes,No,No,Month-to-month,Yes,Credit card,55.29,3554.82,MUMBAI,06-05-2019,0
+CUST-1858,Female,1,Yes,No,57.0,No,No,,Month-to-month,Yes,Credit card,49.73,2670.87,Chennai,06-09-2022,yes
+CUST-1157,male,1,No,,60.0,no,No phone service,DSL,One year,No,,58.36,3702.66,Chennai,09-11-2018,No
+CUST-1479,Female,1,No,,16.0,yes,No,Fiber optic,One year,No,Electronic check,64.23,936.69,Mumbai,12-08-2020,No
+CUST-1645, Male,0,No,N,19.0,Yes,No,No,Month-to-month,YES,Mailed check,55.2,1096.98,Chennai,09-07-2021,1
+CUST-2021,FEMALE,0,NO,No,8.0,yes,No,Fiber optic,,No,Electronic check,101.29,847.4,Bengaluru,28-07-2023,No
+CUST-1992,FEMALE,0,No,Yes,4.0,Yes,Yes,Fiber optic,Month-to-month,No,Credit card,99.23,375.99,MUMBAI,31-05-2023,No
+CUST-1018,FEMALE,0,,Yes,55.0,Yes,No,No,Two year,No,Credit card,37.57,2245.23,,05-02-2018,No
+CUST-1849,,nan,Yes,No,30.0,Yes,No phone service,dsl,Two year,Yes,Electronic check,71.59,2420.3,,19-08-2022,Yes
+CUST-1121,male,0,Yes,No,30.0,Yes,Yes,fiber optic,Two year,Yes,,87.23,2577.96,Hyderabad,30-08-2018,No
+CUST-2008,FEMALE,0,Yes,,10.0,No,No,,Month-to-month,No,Credit card,75.28,730.9,MUMBAI,02-07-2023,NO
+CUST-1848,Male,0,,No,71.0,No,No,DSL,Month-to-month,YES,Electronic check,65.25,4675.37,Mumbai,17-08-2022,1
+CUST-1274,male,nan,No,No,30.0,No,No,Fiber optic,Month-to-month,Yes,Electronic check,79.7,2165.55,MUMBAI,01-07-2019,No
+CUST-1433,FEMALE,0,yes,No,9.0,Yes,No,dsl,Month-to-month,YES,Electronic check,68.88,606.19,Mumbai,12-05-2020,No
+CUST-1979,Male,0,No,Y,72.0,Yes,No phone service,No,Two year,Yes,Credit card,90.4,6436.45,MUMBAI,05-05-2023,No
+CUST-2056, Male,0,Yes,,23.0,No,No phone service,,month-to-month,no,Mailed check,39.01,888.42,Bengaluru,06-10-2023,No
+CUST-1311,Female,nan,No,No,-2.0,Yes,Yes,Fiber optic,Two year,No,Mailed check,15.0,-27.66,Hyderabad,12-09-2019,No
+CUST-1912, Male,0,yes,No,37.0,No,No phone service,Fiber optic,Month-to-month,No,Electronic check,53.51,1861.71,Hyderabad,23-12-2022,yes
+CUST-2050,male,0,,Yes,13.0,no,Yes,,One year,Yes,Bank transfer,34.44,476.21,Chennai,24-09-2023,Yes
+CUST-1780,Male,0,yes,No,33.0,Yes,No,Fiber optic,Month-to-month,no,Bank transfer,91.83,3010.86,Bengaluru,04-04-2022,Yes
+CUST-1546,Female,0,Yes,Y,62.0,No,No phone service,Fiber optic,Month-to-month,No,,81.96,5055.25,Bengaluru,24-12-2020,No
+CUST-1181, Male,1,Yes,Y,38.0,No,No phone service,fiber optic,One year,YES,Electronic check,64.43,2470.17,Bengaluru,27-12-2018,No
+CUST-1184,FEMALE,nan,Yes,Y,15.0,No,No,Fiber optic,One year,Yes,Electronic check,62.26,885.74,Mumbai,02-01-2019,No
+CUST-1406,Female,0,yes,No,26.0,no,No phone service,dsl,Month-to-month,Yes, Electronic check,65.99,1555.28,Hyderabad,20-03-2020,1
+CUST-1719,,0,yes,Y,68.0,Yes,No phone service,DSL,Two year,Yes,Electronic check,99.89,6694.71,Hyderabad,03-12-2021,No
+CUST-1606, Male,0,No,N,64.0,No,No phone service,DSL,Two year,Yes,Credit card,60.35,4027.27,Mumbai,22-04-2021,No
+CUST-1692,Male,0,yes,Yes,38.0,No,No,,Two year,No,,65.8,2627.8,Mumbai,10-10-2021,Yes
+CUST-1520, Male,0,No,N,21.0,Yes,No phone service,DSL,Month-to-month,No,Credit card,26.8,544.21,Bengaluru,02-11-2020,Yes
+CUST-1380,Female,1,Yes,Y,62.0,Yes,Yes,DSL,One year,Yes,Electronic check,71.17,4232.65,Chennai,28-01-2020,No
+CUST-1410,male,0,NO,N,54.0,Yes,No,Fiber optic,Month-to-month,Yes,Mailed check,26.94,1404.56,MUMBAI,28-03-2020,No
+CUST-1634,Male,1,yes,No,-1.0,Yes,No,No,One year,Yes, Electronic check,76.59,-75.75,bengaluru,17-06-2021,No
+CUST-1369, Male,0,,No,49.0,no,No phone service,,Month-to-month,No,Electronic check,73.04,3561.53,Chennai,06-01-2020,Yes
+CUST-1974,Female,1,yes,Yes,7.0,Yes,Yes,Fiber optic,,YES,Bank transfer,98.56,621.31,MUMBAI,25-04-2023,No
+CUST-2005,Female,0,No,Yes,13.0,No,No,dsl,month-to-month,no,Electronic check,83.16,1115.28,Chennai,26-06-2023,No
+CUST-1906,Female,0,No,Yes,23.0,No,,DSL,One year,YES,Credit card,61.55,1420.8,Mumbai,11-12-2022,No
+CUST-1078,Female,0,NO,No,25.0,no,No phone service,No,One year,no,Bank transfer,77.95,2055.01,Bengaluru,05-06-2018,No
+CUST-1862,FEMALE,0,Yes,N,7.0,Yes,No phone service,Fiber optic,Month-to-month,Yes,Mailed check,15.0,105.45,Delhi,14-09-2022,No
+CUST-1573,FEMALE,0,Yes,Yes,20.0,Yes,No,No,Month-to-month,Yes,Electronic check,52.26, ,Bengaluru,15-02-2021,No
+CUST-2098, Male,0,No,Yes,47.0,Yes,Yes,DSL,One year,Yes, Electronic check,55.35,2598.29,Chennai,29-12-2023,Yes
+CUST-1637,FEMALE,0,Yes,No,36.0,No,Yes,DSL,Month-to-month,no,Electronic check,23.34,868.87,Mumbai,23-06-2021,1
+CUST-1607,Male,1,yes,N,27.0,Yes,No phone service,Fiber optic,Month-to-month,Yes,Mailed check,132.79,3510.83,,24-04-2021,Yes
+CUST-1953,Male,1,Yes,No,16.0,yes,,Fiber optic,,No, Electronic check,102.52,1727.62,Mumbai,15-03-2023,1
+CUST-1068,Male,1,yes,Yes,54.0,yes,No,Fiber optic,One year,No,Credit card,97.76,5409.77,Bengaluru,16-05-2018,No
+CUST-1859,Female,0,Yes,Yes,66.0,yes,No phone service,DSL,Two year,YES,Bank transfer,30.93,2086.74,Chennai,08-09-2022,No
+CUST-2003,Male,nan,yes,No,21.0,No,No,fiber optic,Month-to-month,Yes,Credit card,104.93,2170.21,Mumbai,22-06-2023,Yes
+CUST-2072,Female,0,yes,No,56.0,yes,Yes,fiber optic,Two year,Yes,Credit card,15.0,862.14,Mumbai,07-11-2023,No
+CUST-1416,Male,0,Yes,Y,52.0,Yes,No,Fiber optic,Month-to-month,No,Mailed check,101.63,4974.12,Mumbai,08-04-2020,No
+CUST-1892,Male,0,NO,No,43.0,No,No phone service,,Two year,Yes,Bank transfer,15.0,650.46,MUMBAI,13-11-2022,No
+CUST-1561,Male,0,,Yes,68.0,No,Yes,No,One year,Yes,Mailed check,66.15,4185.91,bengaluru,22-01-2021,No
+CUST-1067,Female,0,No,No,27.0,Yes,Yes,No,Month-to-month,No,Electronic check,38.61,1007.41,Delhi,14-05-2018,No
+CUST-1536,Female,1,Yes,Y,28.0,Yes,Yes,DSL,Two year,No,,45.79,1239.32,Chennai,04-12-2020,Yes
+CUST-1077,male,1,Yes,,,Yes,No,DSL,Month-to-month,Yes,Electronic check,67.61,0.0,Hyderabad,03-06-2018,No
+CUST-1105,FEMALE,0,No,N,47.0,No,Yes,DSL,One year,no,Credit card,27.06,1339.12,Delhi,29-07-2018,NO
+CUST-1255,FEMALE,0,No,N,49.0,Yes,,fiber optic,Month-to-month,Yes,Credit card,136.51,6606.28,Chennai,24-05-2019,No
+CUST-1965,Female,nan,yes,No,43.0,No,Yes,Fiber optic,Month-to-month,No,,113.45,4676.41,Bengaluru,07-04-2023,NO
+CUST-1638,FEMALE,0,No,No,25.0,Yes,No,,One year,Yes,,69.56,1721.07,bengaluru,25-06-2021,No
+CUST-1559,Female,0,No,Yes,63.0,Yes,Yes,No,One year,Yes,Credit card,25.2,1572.93,Bengaluru,18-01-2021,1
+CUST-1846,Female,0,No,Yes,27.0,Yes,No,No,One year,Yes,Mailed check,34.1,933.16,bengaluru,13-08-2022,Yes
+CUST-1952,Male,0,No,Yes,57.0,No,No phone service,fiber optic,Two year,Yes,Credit card,58.61,3473.67,Hyderabad,13-03-2023,yes
+CUST-1690,Female,0,Yes,,16.0,Yes,No,No,Month-to-month,No,Mailed check,47.31,777.92,Bengaluru,06-10-2021,No
+CUST-1935,Male,0,NO,Yes,17.0,Yes,,No,Month-to-month,No,Electronic check,74.85,1256.77,Delhi,07-02-2023,No
+CUST-2037,Female,0,Yes,Yes,67.0,yes,No phone service,,Two year,Yes,Electronic check,70.18,4958.35,Delhi,29-08-2023,No
+CUST-2082, Male,1,Yes,Yes,27.0,Yes,No,No,Two year,No,Mailed check,99.71,2596.16,Delhi,27-11-2023,Yes
+CUST-2038,Female,0,No,No,7.0,yes,Yes,DSL,One year,No, Electronic check,69.34,523.87,Mumbai,31-08-2023,Yes
+CUST-1735,male,0,No,No,41.0,Yes,,Fiber optic,,Yes,Bank transfer,111.09,4838.99,Bengaluru,04-01-2022,yes
+CUST-1933,FEMALE,1,Yes,N,21.0,Yes,No,No,Month-to-month,No,,40.53,799.69,Bengaluru,03-02-2023,Yes
+CUST-1490,FEMALE,0,,Yes,41.0,Yes,No,DSL,One year,YES,Mailed check,83.63,3533.05,Mumbai,03-09-2020,1
+CUST-1507,FEMALE,0,Yes,No,9.0,Yes,No phone service,DSL,Two year,YES,Electronic check,30.98,270.03,Delhi,07-10-2020,No
+CUST-1829,Male,1,No,,31.0,No,No phone service,DSL,month-to-month,No,Electronic check,15.0,476.04,Bengaluru,10-07-2022,Yes
+CUST-2019,Female,0,No,No,15.0,No,Yes,Fiber optic,One year,Yes,Mailed check,59.85,949.28,Bengaluru,24-07-2023,Yes
+CUST-1605,FEMALE,nan,Yes,Y,24.0,No,Yes,Fiber optic,Two year,Yes,Electronic check,72.32,1617.33,Bengaluru,20-04-2021,1
+CUST-1363,Male,0,No,Y,57.0,Yes,No phone service,DSL,Two year,Yes,Bank transfer,63.74,3619.26,Bengaluru,25-12-2019,No
+CUST-1069,Female,0,NO,No,,Yes,Yes,DSL,Two year,Yes, Electronic check,42.47,0.0,Mumbai,18-05-2018,No
+CUST-1548,FEMALE,nan,No,Yes,2.0,yes,No phone service,dsl,Month-to-month,YES, Electronic check,93.91,187.47,,28-12-2020,Yes
+CUST-1808,Female,1,Yes,,34.0,No,Yes,DSL,Month-to-month,Yes,Bank transfer,113.81,4033.69,bengaluru,30-05-2022,No
+CUST-1160,Male,0,NO,No,32.0,yes,,Fiber optic,One year,No,Bank transfer,68.43,2239.95,Delhi,15-11-2018,No
+CUST-1874,FEMALE,0,NO,N,29.0,No,No,No,Month-to-month,YES,Credit card,41.9,1267.57,,08-10-2022,No
+CUST-1011, Male,1,No,,43.0,No,No,dsl,Month-to-month,YES,Credit card,46.57,1934.62,MUMBAI,22-01-2018,No
+CUST-1144,Female,1,yes,N,1.0,Yes,,DSL,Month-to-month,No,Electronic check,65.47,66.31,Delhi,14-10-2018,0
+CUST-1517,FEMALE,0,,No,41.0,No,Yes,No,Month-to-month,No,,61.95,2505.86,Mumbai,27-10-2020,No
+CUST-1427, Male,0,No,Yes,34.0,Yes,No phone service,Fiber optic,Two year,Yes,Bank transfer,73.18,2616.81,Mumbai,30-04-2020,No
+CUST-1639, Male,0,Yes,Yes,10.0,No,No,DSL,One year,Yes,Mailed check,52.04,507.82,Bengaluru,27-06-2021,NO
+CUST-1176,Female,0,NO,N,55.0,Yes,Yes,dsl,Two year,Yes,,87.76,5241.37,Chennai,17-12-2018,No
+CUST-1440, Male,1,yes,Yes,20.0,no,No,,,no,Bank transfer,60.01,1319.34,Chennai,26-05-2020,1
+CUST-1814,Male,0,Yes,N,53.0,Yes,No,Fiber optic,Month-to-month,No,Bank transfer,70.84,4047.77,Chennai,11-06-2022,Yes
+CUST-1521,Female,0,NO,No,50.0,Yes,Yes,Fiber optic,Two year,YES,Bank transfer,57.0,2419.96,Hyderabad,04-11-2020,No
+CUST-2040,Male,1,NO,Yes,72.0,Yes,No,No,One year,Yes,Electronic check,78.99,5677.12,Bengaluru,04-09-2023,No
+CUST-1448,Male,0,yes,No,36.0,No,No,DSL,Two year,YES,Mailed check,61.13,2372.07,Hyderabad,11-06-2020,NO
+CUST-1688,FEMALE,1,Yes,,40.0,No,No,Fiber optic,Month-to-month,Yes,Bank transfer,24.33,1041.2,Hyderabad,02-10-2021,No
+CUST-1231,Female,0,yes,Yes,21.0,Yes,No phone service,dsl,Month-to-month,Yes,Credit card,85.49,1774.65,MUMBAI,06-04-2019,No
+CUST-1210,male,1,yes,,33.0,Yes,No phone service,Fiber optic,Month-to-month,Yes,Mailed check,154.14000000000001,5184.72,Bengaluru,23-02-2019,No
+CUST-1640,FEMALE,0,NO,Yes,30.0,No,Yes,fiber optic,Two year,no,Mailed check,145.14,4181.17,Chennai,29-06-2021,No
+CUST-1143,male,0,Yes,No,20.0,no,No,Fiber optic,One year,Yes,Bank transfer,97.43,1955.93,Mumbai,12-10-2018,0
+CUST-1753,Female,0,,No,31.0,Yes,No phone service,No,Month-to-month,Yes,Electronic check,15.0,473.39,Hyderabad,09-02-2022,No
+CUST-1519,FEMALE,0,No,N,11.0,Yes,Yes,Fiber optic,One year,No,Electronic check,70.38,765.98,Bengaluru,31-10-2020,Yes
+CUST-1348,male,0,No,Yes,,Yes,No,Fiber optic,Month-to-month,Yes,Mailed check,67.75,0.0,Delhi,25-11-2019,Yes
+CUST-1298,FEMALE,0,NO,,33.0,Yes,Yes,Fiber optic,month-to-month,Yes,,95.6,3426.31,Delhi,17-08-2019,NO
+CUST-1822,Female,0,No,N,15.0,Yes,,dsl,month-to-month,Yes,Electronic check,81.53,1236.82,,27-06-2022,No
+CUST-1766,Male,nan,No,No,16.0,No,No phone service,dsl,,Yes,Electronic check,51.98,778.82,Delhi,07-03-2022,Yes
+CUST-1428,Male,0,Yes,Y,59.0,No,Yes,Fiber optic,Month-to-month,no,,21.78,1292.92,Hyderabad,02-05-2020,No
+CUST-1612,,nan,yes,N,59.0,No,No phone service,Fiber optic,Month-to-month,Yes,Electronic check,84.21,4539.93,,04-05-2021,No
+CUST-2076,Female,1,No,Y,71.0,Yes,No,dsl,Two year,Yes,Mailed check,15.45,1077.88,,15-11-2023,No
+CUST-2081, Male,nan,Yes,No,62.0,Yes,Yes,DSL,month-to-month,Yes,Credit card,67.52,4538.63,bengaluru,25-11-2023,No
+CUST-1008,Male,nan,Yes,No,56.0,No,,fiber optic,Two year,No, Electronic check,55.55,3243.73,Delhi,16-01-2018,NO
+CUST-1156,Female,0,No,,47.0,Yes,Yes,dsl,Month-to-month,No,Credit card,79.26,3688.6,Mumbai,07-11-2018,No
+CUST-1539,FEMALE,0,No,No,19.0,no,,Fiber optic,month-to-month,no,Credit card,68.28,1197.34,,10-12-2020,yes
+CUST-1506,Female,nan,NO,Y,49.0,Yes,No,Fiber optic,Month-to-month,Yes,Bank transfer,57.22,2621.89,Mumbai,05-10-2020,No
+CUST-1436,Male,0,No,No,40.0,No,Yes,DSL,Two year,No,Credit card,90.16,3469.34,Mumbai,18-05-2020,0
+CUST-1266,Female,0,NO,N,62.0,Yes,No phone service,Fiber optic,Two year,Yes,Credit card,87.2,5412.99,bengaluru,15-06-2019,NO
+CUST-1826,male,1,Yes,No,28.0,No,No,No,One year,Yes,Bank transfer,25.84,756.4,MUMBAI,04-07-2022,1
+CUST-1461,Male,0,No,No,19.0,Yes,No,Fiber optic,month-to-month,Yes,Credit card,100.69,1830.58,Delhi,07-07-2020,No
+CUST-1576, Male,0,yes,Yes,30.0,Yes,Yes,DSL,month-to-month,Yes,Electronic check,41.26,1286.84,Delhi,21-02-2021,Yes
+CUST-1338,Male,nan,Yes,N,67.0,Yes,Yes,DSL,Month-to-month,No,Mailed check,66.19,4356.73,Hyderabad,05-11-2019,NO
+CUST-1255,FEMALE,0,No,N,49.0,Yes,,fiber optic,Month-to-month,Yes,Credit card,136.51,6606.28,Chennai,24-05-2019,No
+CUST-1967,Male,nan,Yes,N,24.0,Yes,No,dsl,Two year,No,Electronic check,75.56,1860.31,Delhi,11-04-2023,No
+CUST-2025,Female,1,NO,No,28.0,No,No,,One year,Yes,,25.23,707.09,Delhi,05-08-2023,No
+CUST-1665,FEMALE,0,Yes,Yes,25.0,Yes,Yes,dsl,One year,Yes,Electronic check,67.81,1745.86,Mumbai,18-08-2021,Yes
+CUST-1560,Male,0,yes,No,52.0,no,Yes,Fiber optic,month-to-month,YES, Electronic check,56.0,2920.55,bengaluru,20-01-2021,Yes
+CUST-1208,Male,0,No,Y,0.0,yes,Yes,dsl,Two year,No,Credit card,100.2,0.0,Delhi,19-02-2019,No
+CUST-1910,FEMALE,0,No,Y,9.0,Yes,No phone service,DSL,One year,No,Credit card,38.86,379.96,,19-12-2022,NO
+CUST-1287,Female,0,NO,No,36.0,yes,No phone service,Fiber optic,One year,No,Bank transfer,25.65,890.64,Bengaluru,26-07-2019,No
+CUST-1001,Female,0,,No,58.0,Yes,Yes,Fiber optic,,YES,Electronic check,131.5,7691.88,MUMBAI,02-01-2018,Yes
+CUST-1939,Male,0,No,Y,46.0,Yes,No,Fiber optic,month-to-month,Yes,Credit card,74.77,3469.34,,15-02-2023,Yes
+CUST-1341,,0,No,Yes,22.0,no,No,fiber optic,,Yes,Bank transfer,62.98,1408.52,bengaluru,11-11-2019,Yes
+CUST-1269,Male,0,No,No,36.0,yes,No,Fiber optic,Month-to-month,YES,Mailed check,42.81,1442.49,Chennai,21-06-2019,No
+CUST-1265,Male,0,yes,N,47.0,Yes,,Fiber optic,Two year,YES,Electronic check,342.24,15426.36,MUMBAI,13-06-2019,No
+CUST-1914,,1,No,No,50.0,yes,No phone service,DSL,Month-to-month,Yes,Credit card,95.58,4930.0,bengaluru,27-12-2022,1
+CUST-1981,FEMALE,0,Yes,No,16.0,Yes,,,month-to-month,No,Mailed check,75.29,1125.38,Mumbai,09-05-2023,Yes
+CUST-1991,FEMALE,1,Yes,Yes,35.0,Yes,,No,Month-to-month,Yes, Electronic check,68.91,2318.21,Hyderabad,29-05-2023,No
+CUST-1880,Female,1,Yes,Y,1.0,yes,No,DSL,Two year,No,Electronic check,67.39,63.93,,20-10-2022,1
+CUST-1095,male,0,Yes,,35.0,No,No,DSL,One year,Yes,Mailed check,40.51,1468.68,Bengaluru,09-07-2018,Yes
+CUST-2097,FEMALE,0,No,N,47.0,Yes,No,Fiber optic,,No,Mailed check,16.76,838.9,Bengaluru,27-12-2023,Yes
+CUST-1864,Male,0,No,No,2.0,no,No,Fiber optic,Month-to-month,YES,Electronic check,81.62,166.26,MUMBAI,18-09-2022,1
+CUST-1042,FEMALE,1,No,Yes,46.0,No,No,DSL,month-to-month,No,Electronic check,47.78,2124.8,Mumbai,25-03-2018,No
+CUST-1873,Female,1,yes,No,5.0,Yes,,dsl,One year,no,Electronic check,76.82,346.55,Hyderabad,06-10-2022,No
+CUST-1966,,0,Yes,No,25.0,No,No,No,Two year,No,Mailed check,15.0,372.15,bengaluru,09-04-2023,No
+CUST-1398,Female,0,,Yes,0.0,Yes,,Fiber optic,Month-to-month,No, Electronic check,46.73,0.0,bengaluru,04-03-2020,Yes
+CUST-2006, Male,0,Yes,No,64.0,no,No phone service,DSL,Two year,No,Electronic check,80.62,4587.16,Mumbai,28-06-2023,No
+CUST-1628,Female,0,NO,Yes,32.0,No,No,Fiber optic,One year,no,Bank transfer,108.23,3273.42,Chennai,05-06-2021,NO
+CUST-1936,,nan,NO,No,14.0,No,No,No,Month-to-month,Yes,Bank transfer,40.54,630.62,Bengaluru,09-02-2023,Yes
+CUST-1045,FEMALE,0,Yes,Y,44.0,yes,No,DSL,Two year,Yes,Electronic check,67.71,3080.44,Delhi,31-03-2018,No
+CUST-1161, Male,1,Yes,N,33.0,No,,Fiber optic,Two year,No,Credit card,142.46,5255.95,Chennai,17-11-2018,No
+CUST-1727,Male,0,No,Y,37.0,No,Yes,dsl,Month-to-month,YES,Electronic check,63.4,2531.21,Bengaluru,19-12-2021,0
+CUST-1629,FEMALE,1,yes,,41.0,Yes,No phone service,Fiber optic,Month-to-month,Yes,Bank transfer,65.07,2628.6,Delhi,07-06-2021,NO
+CUST-1288,Female,nan,Yes,N,10.0,Yes,Yes,Fiber optic,,No,Electronic check,50.88,503.22,Hyderabad,28-07-2019,1
+CUST-1589,Male,1,No,No,29.0,Yes,Yes,Fiber optic,Month-to-month,Yes,Mailed check,15.0,445.32,bengaluru,19-03-2021,No
+CUST-2053,Male,0,No,Yes,15.0,Yes,Yes,Fiber optic,Month-to-month,No,Credit card,39.0,562.62,bengaluru,30-09-2023,No
+CUST-1901,Male,1,Yes,N,14.0,Yes,Yes,DSL,Two year,YES,Credit card,35.27,447.51,Bengaluru,01-12-2022,NO
+CUST-2089,Female,nan,No,No,38.0,No,Yes,Fiber optic,Month-to-month,Yes,Electronic check,70.73,2696.17,MUMBAI,11-12-2023,No
+CUST-1924,Male,0,Yes,Yes,20.0,no,Yes,Fiber optic,,Yes,Electronic check,64.95,1247.58,,16-01-2023,No
+CUST-1575,Female,nan,No,No,33.0,Yes,No phone service,,Month-to-month,No,Bank transfer,97.86,3317.59,,19-02-2021,No
+CUST-1850,Male,nan,NO,Yes,21.0,yes,,Fiber optic,One year,YES,Electronic check,43.0,956.03,Bengaluru,21-08-2022,No
+CUST-1315,Female,0,NO,Y,52.0,No,Yes,No,Month-to-month,Yes,Electronic check,69.96,3571.52,,20-09-2019,Yes
+CUST-1811,Male,0,NO,N,53.0,no,Yes,Fiber optic,Month-to-month,No, Electronic check,67.88,3455.4,Hyderabad,05-06-2022,Yes
+CUST-1911, Male,0,Yes,No,69.0,yes,No,Fiber optic,Month-to-month,No,Credit card,43.94,2721.72,bengaluru,21-12-2022,Yes
+CUST-1230,Male,0,NO,Yes,16.0,Yes,No,DSL,,Yes,Bank transfer,44.24,728.09,Chennai,04-04-2019,Yes
+CUST-1809,,1,NO,No,59.0,No,Yes,Fiber optic,One year,no, Electronic check,68.98,4188.02,Bengaluru,01-06-2022,No
+CUST-1698,male,0,yes,No,67.0,Yes,No,DSL,One year,No,Electronic check,75.21,4359.33,,22-10-2021,0
+CUST-1998,,0,Yes,No,52.0,No,No,Fiber optic,One year,YES,Mailed check,63.92,3530.48,bengaluru,12-06-2023,No
+CUST-1711,male,1,Yes,Yes,39.0,no,Yes,DSL,One year,no,Electronic check,50.22,1921.86,Bengaluru,17-11-2021,No
+CUST-1932,Female,0,Yes,Y,43.0,yes,Yes,Fiber optic,Two year,no,Credit card,83.47,3546.35,Bengaluru,01-02-2023,No
+CUST-1877,Female,nan,yes,,8.0,No,No,fiber optic,One year,Yes,Mailed check,58.91,453.86,Chennai,14-10-2022,No
+CUST-1076,Female,0,No,Yes,22.0,Yes,No,Fiber optic,One year,Yes,Credit card,71.32,1639.58,Delhi,01-06-2018,yes
+CUST-1908,Male,0,Yes,No,63.0,Yes,No phone service,DSL,One year,Yes, Electronic check,61.1,4028.82,Bengaluru,15-12-2022,No
+CUST-1633,Female,0,NO,Yes,25.0,Yes,No,Fiber optic,Two year,No,Credit card,79.94,2020.6,Mumbai,15-06-2021,No
+CUST-1528,FEMALE,0,No,,31.0,Yes,,DSL,,Yes,,101.88,3036.94,Hyderabad,18-11-2020,No
+CUST-1247,Female,1,No,,62.0,Yes,No,DSL,,Yes,,80.96,5672.55,Mumbai,08-05-2019,No
+CUST-1819,Male,nan,Yes,No,42.0,No,No phone service,No,Two year,No,Bank transfer,81.36,3419.41,Mumbai,21-06-2022,yes
+CUST-1824,FEMALE,0,No,,63.0,No,No phone service,,,Yes,Mailed check,37.19,2327.32,Delhi,01-07-2022,yes
+CUST-1476,Female,0,No,Y,12.0,Yes,Yes,No,Month-to-month,Yes,,27.9,329.48,Mumbai,06-08-2020,No
+CUST-1875, Male,0,,No,0.0,Yes,Yes,DSL,month-to-month,no,Mailed check,87.53,0.0,bengaluru,10-10-2022,yes
+CUST-1670,Male,0,yes,,27.0,no,No phone service,DSL,Two year,Yes, Electronic check,34.0,980.38,MUMBAI,28-08-2021,1
+CUST-1085,Male,1,Yes,Y,64.0,Yes,No,,One year,Yes,Bank transfer,55.87,3601.78,,19-06-2018,No
+CUST-1469,Female,0,No,No,47.0,No,No,fiber optic,Month-to-month,Yes,,105.95,4980.08,Hyderabad,23-07-2020,Yes
+CUST-1225, Male,1,yes,No,64.0,Yes,No phone service,No,One year,No,Mailed check,99.07,6380.32,Bengaluru,25-03-2019,Yes
+CUST-1888,Male,nan,No,Yes,19.0,Yes,No,,,Yes,Electronic check,58.23,1041.37,Hyderabad,05-11-2022,No
+CUST-1774,Male,nan,No,Yes,51.0,Yes,Yes,DSL,month-to-month,Yes,Bank transfer,49.48,2597.63,Bengaluru,23-03-2022,No
+CUST-1331,Male,0,yes,,48.0,no,Yes,No,Two year,Yes,Credit card,55.07,2562.73,Bengaluru,22-10-2019,yes
+CUST-1233,male,nan,No,Yes,31.0,Yes,No,DSL,Month-to-month,No,Bank transfer,59.22,1745.87,Bengaluru,10-04-2019,No
+CUST-1588,Male,0,,,31.0,Yes,No,No,Month-to-month,No,,55.56,1607.86,Chennai,17-03-2021,Yes
+CUST-1475,Female,0,No,No,50.0,Yes,No,,Month-to-month,No,Electronic check,51.48,2550.13,Chennai,04-08-2020,No
+CUST-2052,Male,0,Yes,Y,61.0,Yes,No phone service,No,One year,no,Credit card,25.66,1538.92,Bengaluru,28-09-2023,yes
+CUST-1661, Male,0,No,Yes,23.0,Yes,No,Fiber optic,Two year,No,Electronic check,15.14,319.71,Chennai,10-08-2021,No
+CUST-1599,male,0,NO,Yes,56.0,no,No,,Month-to-month,no,,62.61,3907.26,,08-04-2021,No
+CUST-1969,Male,0,yes,N,62.0,No,No,,Month-to-month,No,Electronic check,15.0,914.45,,15-04-2023,No
+CUST-1421,Male,0,,No,63.0,Yes,Yes,DSL,Month-to-month,Yes,Electronic check,71.97,4494.14,Chennai,18-04-2020,Yes
+CUST-1687,,0,,No,20.0,No,,DSL,Month-to-month,YES,,43.78,913.55,MUMBAI,30-09-2021,Yes
+CUST-1182,Female,1,Yes,N,63.0,Yes,Yes,,One year,Yes,Electronic check,67.12,4286.91,,29-12-2018,0
+CUST-1988,Female,0,Yes,,49.0,no,No phone service,DSL,Two year,No,Electronic check,30.7,1364.98,Chennai,23-05-2023,No
+CUST-2000,Male,0,NO,No,51.0,Yes,No phone service,Fiber optic,month-to-month,No,,38.16,2024.56,Mumbai,16-06-2023,Yes
+CUST-1617,Female,0,No,No,12.0,no,Yes,Fiber optic,Month-to-month,Yes,Bank transfer,15.97,203.99,Mumbai,14-05-2021,No
+CUST-1332,male,0,yes,No,71.0,Yes,No phone service,Fiber optic,Month-to-month,YES,Electronic check,30.11,2288.41,Bengaluru,24-10-2019,Yes
+CUST-1438,FEMALE,1,NO,N,46.0,no,No,Fiber optic,One year,Yes,Mailed check,77.35,3179.51,Bengaluru,22-05-2020,No
+CUST-1049,Male,1,No,No,43.0,Yes,Yes,fiber optic,Two year,No,Mailed check,62.82,2805.9,Hyderabad,08-04-2018,Yes
+CUST-2045,Female,nan,No,,20.0,No,No,DSL,Month-to-month,No,Electronic check,83.1,1540.59,MUMBAI,14-09-2023,No
+CUST-1005,,0,No,Yes,1.0,yes,Yes,DSL,,YES,Mailed check,114.54,113.23,,10-01-2018,1
+CUST-1529,Female,1,NO,No,42.0,no,Yes,DSL,Month-to-month,Yes,Bank transfer,24.57,1059.64,Delhi,20-11-2020,NO
+CUST-1234, Male,nan,yes,Y,63.0,Yes,Yes,DSL,Two year,Yes,Electronic check,56.23,3374.4,Bengaluru,12-04-2019,1
+CUST-1486,Female,0,Yes,,31.0,no,No,,Two year,No, Electronic check,71.95,2115.33,Mumbai,26-08-2020,Yes
+CUST-1497,male,0,Yes,N,22.0,Yes,Yes,dsl,Month-to-month,Yes,Electronic check,63.11,1178.21,Chennai,17-09-2020,Yes
+CUST-1106,Female,0,No,No,65.0,Yes,Yes,dsl,One year,YES,Bank transfer,72.43,5039.38,Bengaluru,31-07-2018,NO
+CUST-1443,Male,0,NO,No,68.0,No,Yes,dsl,Month-to-month,No,Mailed check,42.68,2960.74,Bengaluru,01-06-2020,0
+CUST-1646,Male,0,Yes,Yes,70.0,Yes,No phone service,DSL,Month-to-month,No,Electronic check,42.84,2928.04,Bengaluru,11-07-2021,0
+CUST-1726,Male,0,yes,Y,60.0,no,No,Fiber optic,month-to-month,Yes,Mailed check,35.35,2101.44,Bengaluru,17-12-2021,1
+CUST-1190, Male,0,No,No,1.0,Yes,Yes,DSL,Two year,Yes,Bank transfer,48.33,50.47,Chennai,14-01-2019,No
+CUST-1282,Male,0,Yes,No,13.0,no,No,fiber optic,Two year,no,Credit card,67.82,972.81,Hyderabad,16-07-2019,No
+CUST-1029,male,nan,yes,Yes,18.0,Yes,No phone service,DSL,One year,No,Electronic check,55.42,1096.55,Mumbai,27-02-2018,No
+CUST-1169,,0,No,,63.0,Yes,,Fiber optic,Month-to-month,Yes,Electronic check,74.63,4446.07,Chennai,03-12-2018,No
+CUST-2001,Female,0,,Y,36.0,Yes,Yes,Fiber optic,One year,No, Electronic check,98.56,3789.4,Hyderabad,18-06-2023,Yes
+CUST-1100, Male,0,,Yes,9.0,No,No phone service,fiber optic,,No,Bank transfer,68.36,606.87,Chennai,19-07-2018,NO
+CUST-1197, Male,0,Yes,N,62.0,No,Yes,DSL,One year,YES, Electronic check,66.64,3970.22,Mumbai,28-01-2019,Yes
+CUST-1495,Female,0,Yes,Y,15.0,Yes,No,No,Month-to-month,Yes,Electronic check,144.22,2073.62,Delhi,13-09-2020,No
+CUST-1647,Female,0,Yes,Yes,44.0,Yes,No phone service,No,,Yes,,74.42,3320.94,Delhi,13-07-2021,0
+CUST-1987,Male,0,NO,Yes,19.0,no,No,Fiber optic,Two year,Yes,Electronic check,112.44,2109.42,Bengaluru,21-05-2023,yes
+CUST-1044,FEMALE,1,No,No,37.0,Yes,Yes,Fiber optic,Month-to-month,No,Credit card,34.83,1335.99,Delhi,29-03-2018,No
+CUST-1710,,0,yes,No,15.0,Yes,No phone service,No,month-to-month,Yes,Electronic check,30.87,488.4,Bengaluru,15-11-2021,No
+CUST-1373,Female,0,NO,No,36.0,yes,No phone service,dsl,One year,Yes,Bank transfer,83.07,2772.4,Mumbai,14-01-2020,No
+CUST-1678,Male,0,No,No,,Yes,No,fiber optic,Month-to-month,No,Credit card,61.39,0.0,Mumbai,13-09-2021,No
+CUST-1566,FEMALE,1,No,No,24.0,Yes,No,,Month-to-month,YES, Electronic check,100.87,2460.45,,01-02-2021,No
+CUST-1847,male,nan,yes,Y,51.0,No,No,Fiber optic,One year,Yes,Mailed check,47.63,2353.96,bengaluru,15-08-2022,No
+CUST-1460,male,nan,NO,,26.0,yes,Yes,DSL,Two year,YES,,66.53,1769.82,Chennai,05-07-2020,No
+CUST-1039,male,0,No,No,37.0,No,No,DSL,Month-to-month,YES,Mailed check,50.71,2128.1,Hyderabad,19-03-2018,No
+CUST-1434,Male,0,No,Yes,34.0,Yes,,Fiber optic,month-to-month,YES,Bank transfer,70.13,2307.97,,14-05-2020,Yes
+CUST-1973, Male,1,,N,7.0,Yes,No,Fiber optic,One year,No,Electronic check,87.14,617.27,Chennai,23-04-2023,No
+CUST-2007,Female,nan,Yes,No,64.0,no,No phone service,,Month-to-month,No,Electronic check,41.92,2743.89,bengaluru,30-06-2023,1
+CUST-1456,,nan,No,No,34.0,yes,,Fiber optic,Month-to-month,Yes,Mailed check,41.31,1383.26,bengaluru,27-06-2020,No
+CUST-1260,Male,0,NO,Y,49.0,No,,No,Two year,No,Bank transfer,65.22,3402.91,Chennai,03-06-2019,No
+CUST-1035,Male,0,NO,No,1.0,yes,No,DSL,One year,Yes,Credit card,95.25,90.98,Hyderabad,11-03-2018,No
+CUST-1827,Male,0,NO,No,68.0,No,No phone service,Fiber optic,One year,No,Electronic check,94.27,6045.36,Hyderabad,06-07-2022,Yes
+CUST-1309,Male,0,yes,Yes,18.0,No,No phone service,fiber optic,Two year,Yes,Bank transfer,58.7,965.59,bengaluru,08-09-2019,No
+CUST-1276,Female,0,Yes,N,51.0,Yes,No,DSL,month-to-month,Yes,Electronic check,92.86,4978.24,Chennai,04-07-2019,No
+CUST-1636,male,1,yes,No,4.0,No,No,Fiber optic,Month-to-month,Yes,Credit card,80.84,309.32,Mumbai,21-06-2021,Yes
+CUST-1654, Male,0,NO,Yes,18.0,Yes,No,dsl,Month-to-month,Yes,Mailed check,76.9,1481.09,Mumbai,27-07-2021,Yes
+CUST-1622,,0,Yes,No,33.0,Yes,No,,One year,Yes,Mailed check,86.03,3050.88,Bengaluru,24-05-2021,Yes
+CUST-1844,Male,1,yes,No,34.0,No,Yes,No,Month-to-month,No,Bank transfer,48.66,1678.12,Bengaluru,09-08-2022,No
+CUST-1393,male,0,Yes,No,31.0,yes,No,Fiber optic,Two year,YES,Credit card,24.19,725.38,Mumbai,23-02-2020,No
+CUST-1107,Male,0,No,No,48.0,Yes,No,DSL,Two year,No,Mailed check,78.66,3838.32,Hyderabad,02-08-2018,No
+CUST-1349,Male,0,Yes,N,61.0,No,No,,One year,No,Electronic check,56.51,3700.63,MUMBAI,27-11-2019,No
+CUST-1524,Male,1,Yes,Y,,Yes,No phone service,Fiber optic,month-to-month,Yes,Bank transfer,42.05,0.0,Delhi,10-11-2020,No
+CUST-1784,,0,Yes,No,55.0,yes,No,No,Month-to-month,No,Mailed check,28.28,1429.03,Chennai,12-04-2022,NO
+CUST-1047,Female,1,yes,No,16.0,No,Yes,Fiber optic,One year,No,Credit card,58.45,991.94,Mumbai,04-04-2018,Yes
+CUST-1203,Male,0,NO,No,33.0,No,No phone service,DSL,Two year,Yes,,53.47, ,bengaluru,09-02-2019,yes
+CUST-1021,Female,0,No,No,,No,Yes,DSL,Two year,Yes,Electronic check,72.8,0.0,Hyderabad,11-02-2018,No
+CUST-1402,FEMALE,1,No,No,,No,Yes,No,Month-to-month,Yes,Mailed check,31.08,0.0,Hyderabad,12-03-2020,NO
+CUST-1989,FEMALE,0,Yes,No,50.0,Yes,No,dsl,Month-to-month,YES,Electronic check,70.17,3375.77,Mumbai,25-05-2023,No
+CUST-1741,Male,0,Yes,N,47.0,Yes,No phone service,Fiber optic,month-to-month,no,Credit card,57.53,2597.34,Bengaluru,16-01-2022,NO
+CUST-1033,Female,0,,Yes,,Yes,Yes,DSL,One year,no,,118.3,0.0,Bengaluru,07-03-2018,No
+CUST-1787,Female,0,No,No,69.0,No,No,DSL,Two year,Yes,Electronic check,80.54,5431.1,Hyderabad,18-04-2022,Yes
+CUST-1923,Female,0,No,Yes,64.0,Yes,No,No,Two year,Yes,Electronic check,103.19,6595.77,Bengaluru,14-01-2023,NO
+CUST-2043,male,1,Yes,Yes,11.0,Yes,No,No,Two year,No,Bank transfer,71.61,792.83,Mumbai,10-09-2023,Yes
+CUST-2078,male,0,No,N,-1.0,Yes,,No,Two year,Yes,Electronic check,22.94,-23.17,Bengaluru,19-11-2023,No
+CUST-1579,Female,0,Yes,No,53.0,Yes,No phone service,DSL,One year,Yes,Mailed check,66.95,3448.41,Chennai,27-02-2021,Yes
+CUST-1481,Male,0,NO,N,14.0,Yes,No,Fiber optic,,YES,,77.18,1087.84,Mumbai,16-08-2020,No
+CUST-1931,Female,0,,Yes,8.0,No,Yes,Fiber optic,,No,Bank transfer,43.56,331.73,Hyderabad,30-01-2023,No
+CUST-1356,FEMALE,0,Yes,Yes,60.0,yes,No phone service,No,Month-to-month,No,Electronic check,61.17,3834.48,MUMBAI,11-12-2019,No
+CUST-1759,Female,0,,N,47.0,Yes,Yes,DSL,Month-to-month,no,Mailed check,70.26,3521.44,MUMBAI,21-02-2022,yes
+CUST-1092,Female,1,yes,,49.0,Yes,No,No,One year,Yes,Electronic check,17.92,868.39,Hyderabad,03-07-2018,No
+CUST-1803,male,0,yes,No,15.0,No,No,dsl,One year,Yes,Electronic check,71.06,1119.59,Hyderabad,20-05-2022,NO
+CUST-1745,Female,0,No,No,0.0,yes,No,Fiber optic,,Yes,,63.43,0.0,Bengaluru,24-01-2022,0
+CUST-1279, Male,1,,Yes,26.0,Yes,No,DSL,Month-to-month,No,Mailed check,29.34,772.13,,10-07-2019,yes
+CUST-1764, Male,0,Yes,Yes,67.0,Yes,,No,Month-to-month,No,Mailed check,53.32,3510.88,,03-03-2022,No
+CUST-1604,,0,Yes,No,55.0,Yes,No,No,Two year,Yes,Bank transfer,72.5,3905.93,Delhi,18-04-2021,No
+CUST-1653,Male,1,No,Y,58.0,No,No,Fiber optic,,No,Electronic check,74.42,4253.15,Mumbai,25-07-2021,Yes
+CUST-1400,Female,0,No,N,33.0,Yes,Yes,DSL,Two year,Yes,Bank transfer,15.0,501.76,bengaluru,08-03-2020,No
+CUST-1257,Male,0,Yes,,17.0,Yes,No,DSL,,Yes,Credit card,70.7,1179.39,bengaluru,28-05-2019,No
+CUST-1944,Female,nan,NO,Y,38.0,no,Yes,No,Month-to-month,Yes,Electronic check,65.67,2668.2,Delhi,25-02-2023,No
+CUST-1494,FEMALE,1,NO,No,14.0,Yes,No phone service,,One year,Yes,Mailed check,74.06,1027.98,Delhi,11-09-2020,Yes
+CUST-1772,male,nan,Yes,No,11.0,Yes,Yes,DSL,Month-to-month,Yes,Bank transfer,70.87,714.61,Mumbai,19-03-2022,yes
+CUST-1550,Female,0,Yes,No,49.0,Yes,Yes,No,Two year,Yes,Bank transfer,71.92,3252.58,Bengaluru,31-12-2020,Yes
+CUST-1201,,0,NO,No,1.0,No,,DSL,Month-to-month,No, Electronic check,100.99,101.44,Bengaluru,05-02-2019,No
+CUST-1312,Male,1,Yes,No,62.0,Yes,No,No,One year,Yes,,46.22,3145.03,Bengaluru,14-09-2019,No
+CUST-1290,FEMALE,nan,,N,38.0,No,Yes,Fiber optic,Month-to-month,No, Electronic check,81.17,3041.1,Bengaluru,01-08-2019,No
+CUST-1763,Male,0,No,No,72.0,no,,,Month-to-month,No,Bank transfer,46.57,3465.02,bengaluru,01-03-2022,No
+CUST-1949,Female,0,Yes,N,37.0,No,No,Fiber optic,Month-to-month,no,Bank transfer,39.67,1507.46,bengaluru,07-03-2023,Yes
+CUST-1183,Female,0,Yes,No,62.0,Yes,Yes,,Month-to-month,No,Electronic check,78.56,4542.77,,31-12-2018,1
+CUST-2068,Male,0,,Yes,35.0,Yes,No phone service,No,Two year,Yes,Credit card,98.17,3529.59,Bengaluru,30-10-2023,NO
+CUST-2030,male,0,No,Yes,4.0,Yes,No,dsl,month-to-month,No,,52.61,194.86,Delhi,15-08-2023,No
+CUST-1250,male,0,yes,N,2.0,Yes,No,DSL,Month-to-month,No,Mailed check,70.93,138.58,Mumbai,14-05-2019,No
+CUST-1823,male,1,No,No,49.0,No,No,No,Month-to-month,Yes,Electronic check,68.37,3272.59,Mumbai,29-06-2022,No
+CUST-2099,Male,0,Yes,N,50.0,yes,No,DSL,One year,No,,105.56,5700.04,Delhi,31-12-2023,0
+CUST-1940,Male,0,No,N,25.0,yes,No,Fiber optic,,Yes,Credit card,117.86,2794.67,Hyderabad,17-02-2023,No
+CUST-1391,Male,1,NO,No,71.0,No,No,DSL,Two year,No,Bank transfer,54.72,3961.06,Delhi,19-02-2020,0
+CUST-2092,Female,0,No,No,3.0,Yes,,,Month-to-month,Yes,Credit card,98.15,301.19,Hyderabad,17-12-2023,Yes
+CUST-1904,,0,yes,Y,5.0,no,Yes,Fiber optic,One year,Yes,Mailed check,68.6,337.24,Delhi,07-12-2022,Yes
+CUST-1730,Female,0,No,No,49.0,yes,No,dsl,Two year,no, Electronic check,92.7,4725.07,Hyderabad,25-12-2021,Yes
+CUST-1554,Male,nan,NO,No,29.0,no,Yes,Fiber optic,Month-to-month,no,,111.13,3076.34,Mumbai,08-01-2021,No
+CUST-1366,FEMALE,1,Yes,Yes,54.0,No,No,Fiber optic,,Yes,Bank transfer,15.0,791.67,Hyderabad,31-12-2019,1
+CUST-1345,FEMALE,0,No,N,11.0,No,No,DSL,One year,Yes,Electronic check,122.83,1221.95,Mumbai,19-11-2019,No
+CUST-1535,Male,1,No,No,24.0,Yes,Yes,dsl,One year,No,,71.54, ,Bengaluru,02-12-2020,No
+CUST-1919,Female,1,Yes,Y,20.0,yes,No,DSL,month-to-month,No,Mailed check,69.07,1278.81,Hyderabad,06-01-2023,NO
+CUST-1211,male,nan,,Y,29.0,Yes,No,Fiber optic,,Yes,Bank transfer,68.06,1930.99,Hyderabad,25-02-2019,No
+CUST-1502, Male,0,No,No,40.0,Yes,No phone service,Fiber optic,Month-to-month,Yes,Electronic check,51.74,1828.3,Hyderabad,27-09-2020,NO
+CUST-1537,Male,nan,No,Yes,63.0,No,No,Fiber optic,Two year,Yes,Credit card,65.24,4013.91,,06-12-2020,No
+CUST-1175,Male,0,Yes,No,8.0,no,Yes,fiber optic,Two year,Yes,Credit card,50.9,466.73,Delhi,15-12-2018,No
